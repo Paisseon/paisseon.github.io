@@ -1,0 +1,257 @@
+Package: emt.paisseon.apollocrack
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 72
+Filename: debs/emt.paisseon.apollocrack_1.2.2_iphoneos-arm.deb
+Size: 2994
+MD5sum: 8af3f8d0335338370588165979c0316b
+SHA1: 282e8b217b110fa6378414ff47108c2eb3ce87f0
+SHA256: bd79932f576b2709cb8aecdadc604e76d4917d51a0b62820195d700f038afada
+Section: Cracks
+Description: Apollo Ultra for free. Only works on Apollo >= 1.13
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/apollo-ultra-crack.json&name=Apollo-Ultra-Crack&dev=Paisseon
+Name: Apollo Ultra Crack
+Sileodepiction: https://paisseon.github.io/depictions/apollo-ultra-crack.json
+
+Package: emt.paisseon.chocola
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 540
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 13.0), ws.hbang.common (>= 1.17), com.mrgcgamer.libgcuniversal
+Filename: debs/emt.paisseon.chocola_1.1_iphoneos-arm.deb
+Size: 81728
+MD5sum: 37a9be6f2f351da73046b42f54dec001
+SHA1: 5a0534cb7c55031bb25862b09633639610496b19
+SHA256: 95d3d370abfd49522e93fe17a8054e36d65b57f1bd0b804388c3be458d0cbd7c
+Section: Tweaks
+Description: Lightweight video wallpapers
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/chocola.json&name=Chocola&dev=Paisseon
+Icon: https://paisseon.github.io/icons/chocola.png
+Name: Chocola
+Sileodepiction: https://paisseon.github.io/depictions/chocola.json
+
+Package: emt.paisseon.craft
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/emt.paisseon.craft_1.0_iphoneos-arm.deb
+Size: 3976
+MD5sum: 533a73a19589e38c37daa675bd1989c2
+SHA1: cb77cbf5a9354ffae645eace2dfc4b3b29f070a8
+SHA256: 0c8816eb13d256d117bcb37e895756106890f607d71e099860818cf2ce8d0436
+Section: Cracks
+Description: Craft subscription for free
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/craft-crack.json&name=Craft-Crack&dev=Paisseon
+Name: Craft Crack
+Sileodepiction: https://paisseon.github.io/depictions/craft-crack.json
+
+Package: emt.paisseon.erika
+Version: 1.9
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 364
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 13.0), ws.hbang.common (>= 1.17)
+Filename: debs/emt.paisseon.erika_1.9_iphoneos-arm.deb
+Size: 93426
+MD5sum: 12c80f6980e99a697eebfe79e4d35271
+SHA1: 9d3652ab4c1f231cdc646f2052f7f1ae94390f5f
+SHA256: 30bf18561efc7bfab56d9bdd7af4bbf968ff8708613f487c668c4d3e5fd70765
+Section: Tweaks (Piracy)
+Description: Paid tweaks for free on Installer, Saily, Sileo, and Zebra
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/erika.json&name=Erika&dev=Paisseon
+Icon: https://paisseon.github.io/icons/erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/depictions/erika.json
+
+Package: emt.paisseon.hyperixa
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/emt.paisseon.hyperixa_1.0_iphoneos-arm.deb
+Size: 20246
+MD5sum: 967e735c87c66f5db6da42a37689ff01
+SHA1: 57558ca22f65f5aca03e3e41e68707edbc63b60c
+SHA256: 865e70540a145df9b99a96343e06cafb539e7f96713f28186f175c501eda9086
+Section: Cracks
+Description: All Hyperixa tweaks for free
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/hyperixa-crack.json&name=Hyperixa-Crack&dev=Paisseon
+Name: Hyperixa Crack
+Sileodepiction: https://paisseon.github.io/depictions/hyperixa-crack.json
+
+Package: emt.paisseon.icleaner
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 124
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/emt.paisseon.icleaner_0.0.1_iphoneos-arm.deb
+Size: 17052
+MD5sum: b274c433795f36dd9b61903ab1fd3d7f
+SHA1: bbe67713de6d99213e00b5faba7f96447ef2eb62
+SHA256: cb42d11f1f3e87ab3cb51dfd2e3414f26f8d4bad21918b341ab51372f96da804
+Section: Cracks
+Description: iCleaner Pro for free
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/icleaner-pro-crack.json&name=iCleaner-Pro-Crack&dev=Paisseon
+Name: iCleaner Pro Crack
+Sileodepiction: https://paisseon.github.io/depictions/icleaner-pro-crack.json
+
+Package: emt.paisseon.igloo
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000), emt.paisseon.satella
+Filename: debs/emt.paisseon.igloo_1.0_iphoneos-arm.deb
+Size: 3090
+MD5sum: b47d5be22aadb20dc9956c3680f7e89c
+SHA1: 2649f2a5e3cbf05f3ded5a8cb8f05d0f6e2c7dce
+SHA256: 5a80bf6b2aa76437e2dac662a060ca46609cb953297ca17187967fd2479c96b1
+Section: Cracks
+Description: Igloo pro for free
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/igloo-crack.json&name=Igloo-Crack&dev=Paisseon
+Name: Igloo Crack
+Sileodepiction: https://paisseon.github.io/depictions/igloo-crack.json
+
+Package: emt.paisseon.phonecaller
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/emt.paisseon.phonecaller_0.0.2_iphoneos-arm.deb
+Size: 3454
+MD5sum: 2d68dd1445967895025b91d7621e797d
+SHA1: d016c32fdda611d8bbe8abde6bc64a7697d1d192
+SHA256: fc889beb22b46ddc1ea5bee58bc2ce80495455c3e8d461fb0d4fff525145dd8e
+Section: Cracks
+Description: PhoneCaller3 for free
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/phonecaller3-crack.json&name=PhoneCaller3-Crack&dev=Paisseon
+Name: PhoneCaller3 Crack
+Sileodepiction: https://paisseon.github.io/depictions/phonecaller3-crack.json
+
+Package: emt.paisseon.revenuecrack
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 72
+Filename: debs/emt.paisseon.revenuecrack_1.1_iphoneos-arm.deb
+Size: 3346
+MD5sum: 4fbfa54f2da36b52604b46cd1aa823ff
+SHA1: a4eac3e23000f3e1c1b507c6c9abcdc8e4211d4b
+SHA256: 4334e55a66f9331458258abe5ae82807c4277e0f098a3f449e27522fba442d73
+Section: Cracks
+Description: RevenueCat purchases for free
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/revenuecat-crack.json&name=RevenueCat-Crack&dev=Paisseon
+Name: RevenueCat Crack
+Sileodepiction: https://paisseon.github.io/depictions/revenuecat-crack.json
+
+Package: emt.paisseon.reverie
+Version: 0.1b
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 652
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 13.0), ws.hbang.common (>= 1.17), com.opa334.ccsupport
+Filename: debs/emt.paisseon.reverie_0.1b_iphoneos-arm.deb
+Size: 87686
+MD5sum: c8cb764cee6d11b42a3cbd915a4a5eb2
+SHA1: d3f9169bbdce56ae8a8c3400ae3297c5f80ce925
+SHA256: 5cf66017e9f815538cf4befb113da821ed1b3c1ce3ee3420d2d62d176f6ad756
+Section: Tweaks
+Description: Hibernate when your battery gets low
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/reverie.json&name=Reverie&dev=Paisseon
+Icon: https://paisseon.github.io/icons/reverie.png
+Name: Reverie
+Sileodepiction: https://paisseon.github.io/depictions/reverie.json
+
+Package: emt.paisseon.satella
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 568
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), ws.hbang.common (>= 1.17), com.opa334.altlist (>= 1.0.7)
+Conflicts: ai.paisseon.satella
+Filename: debs/emt.paisseon.satella_1.3.1_iphoneos-arm.deb
+Size: 79034
+MD5sum: 20340354f10099094c37701847f46873
+SHA1: ab85ca8acea138a8f8916a94348ebe8ead7ee92f
+SHA256: 20ce9afa199317bbb4cf20e41832597294d83634c3e26b966aa8a2cc0a1de9b5
+Section: Tweaks (Piracy)
+Priority: optional
+Description: Modern in-app purchase cracker
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/satella.json&name=Satella&dev=Paisseon
+Icon: https://paisseon.github.io/icons/satella.png
+Name: Satella
+Sileodepiction: https://paisseon.github.io/depictions/satella.json
+
+Package: emt.paisseon.ulysses
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/emt.paisseon.ulysses_1.1_iphoneos-arm.deb
+Size: 2404
+MD5sum: 5b3fe6822968af03c040888306e6180d
+SHA1: a0bd3745ff37d1399739edee000c6e823f0b2092
+SHA256: df8e4b99032ee77b27ee86b00ecb25ce4ed1d4b14d56d454f5b3d40483200393
+Section: Cracks
+Description: Ulysses subscription for free
+Author: Paisseon
+Name: Ulysses Crack
+
+Package: emt.paisseon.vivy
+Version: 0.1b
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 452
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 13.0), ws.hbang.common (>= 1.17), com.mrgcgamer.libgcuniversal
+Replaces: ai.paisseon.vivy
+Filename: debs/emt.paisseon.vivy_0.1b_iphoneos-arm.deb
+Size: 66530
+MD5sum: 649f9b6b9cdb5c85704a432f0caa835f
+SHA1: ab4d7221f89628bc90a0cb416dac4354f84c3980
+SHA256: 03cb7b3d6a90ff4e8e097ef6d47994c11bb48b98808617ed0c761f0fd0c9a378
+Section: Tweaks
+Priority: optional
+Description: Free and modern battery theming
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/vivy.json&name=Vivy&dev=Paisseon
+Icon: https://paisseon.github.io/icons/vivy.png
+Name: Vivy
+Sileodepiction: https://paisseon.github.io/depictions/vivy.json
+
+Package: emt.paisseon.zsvpn
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/emt.paisseon.zsvpn_1.0_iphoneos-arm.deb
+Size: 3216
+MD5sum: 7eec7a82ba5e8a9a78fb17651235a458
+SHA1: 7abaa83654e13368becc46ae3218bfd50e2c6b38
+SHA256: 74b148c15cb15f155cb34477c6cbfd238ab249f228d3fa585ece96c3f207051b
+Section: Cracks
+Description: ZSVPN subscription for free
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/zsvpn-crack.json&name=ZSVPN-Crack&dev=Paisseon
+Name: ZSVPN Crack
+Sileodepiction: https://paisseon.github.io/depictions/zsvpn-crack.json
+

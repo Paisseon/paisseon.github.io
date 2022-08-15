@@ -1,0 +1,8 @@
+Origin: Paisseon's Repo 
+Label: Paisseon's Repo
+Suite: stable
+Version: 1.0
+Codename: EMT
+Architectures: iphoneos-arm
+Components: main
+Description: Who even reads repo descriptions?

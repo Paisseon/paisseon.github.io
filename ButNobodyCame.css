@@ -1,0 +1,33 @@
+@font-face {
+	font-family: 'Determination';
+	src: url('fonts/Determination.woff2') format('woff2'),
+		 url('fonts/Determination.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+
+}
+
+body {
+	background-color: black;
+	display: grid;
+	  grid-template-columns: 1fr;
+	  grid-template-rows: 100vh;
+	  align-items: center;
+	  justify-items: center;
+}
+
+p {
+	color: white;
+	font-family: Determination;
+}
+
+div {
+	text-align: center;
+}
+
+.udtButton {
+	color: white;
+	font-family: Determination;
+	display: inline-block;
+	padding-inline: 20px
+}
