@@ -200,6 +200,45 @@ Icon: https://paisseon.github.io/icons/satella.png
 Name: Satella
 Sileodepiction: https://paisseon.github.io/depictions/satella.json
 
+Package: emt.paisseon.satella
+Version: 1.3.2
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 568
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), ws.hbang.common (>= 1.17), com.opa334.altlist (>= 1.0.7)
+Conflicts: ai.paisseon.satella
+Filename: debs/emt.paisseon.satella_1.3.2_iphoneos-arm.deb
+Size: 79514
+MD5sum: a430fbde0b2af3266a9e9036697a998c
+SHA1: ceb7d169fb269871e006e23027cde7f1baeda367
+SHA256: 97643fd9b011733f2719a6a5e19fac02a05ed8f37893fc5a9ea5556d723a19f3
+Section: Tweaks (Piracy)
+Priority: optional
+Description: Modern in-app purchase cracker
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/satella.json&name=Satella&dev=Paisseon
+Icon: https://paisseon.github.io/icons/satella.png
+Name: Satella
+Sileodepiction: https://paisseon.github.io/depictions/satella.json
+
+Package: emt.paisseon.ultimateguitar
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/emt.paisseon.ultimateguitar_1.0_iphoneos-arm.deb
+Size: 3594
+MD5sum: e69e0b9c13b2b09d57cfdd9ce03c123f
+SHA1: fb4c4a3c4afa3f88e1a51fb5b6c843a7700d2033
+SHA256: 9c992c2049e6bdcfa813b24975c39209d9d06c4e8b3622bbe74db3e3090b29ec
+Section: Cracks
+Description: Ultimate Guitar Pro + Courses for free
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/tabs-crack.json&name=Ultimate-Guitar-Crack&dev=Paisseon
+Name: Ultimate Guitar Crack
+Sileodepiction: https://paisseon.github.io/depictions/tabs-crack.json
+
 Package: emt.paisseon.ulysses
 Version: 1.1
 Architecture: iphoneos-arm
@@ -207,14 +246,16 @@ Maintainer: Paisseon
 Installed-Size: 72
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: debs/emt.paisseon.ulysses_1.1_iphoneos-arm.deb
-Size: 2404
-MD5sum: 5b3fe6822968af03c040888306e6180d
-SHA1: a0bd3745ff37d1399739edee000c6e823f0b2092
-SHA256: df8e4b99032ee77b27ee86b00ecb25ce4ed1d4b14d56d454f5b3d40483200393
+Size: 2486
+MD5sum: 85dbbe0c6459131b41b54ab7ecfd770a
+SHA1: aa9c4fb6f8d730d12cfa928d3b7ebfc9f94079eb
+SHA256: 9a1769ae9fe57d24352f5ce77862dd8ae5db8550f444f54aaad893210bb2a7ad
 Section: Cracks
 Description: Ulysses subscription for free
 Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/ulysses-crack.json&name=Ulysses-Crack&dev=Paisseon
 Name: Ulysses Crack
+Sileodepiction: https://paisseon.github.io/depictions/ulysses-crack.json
 
 Package: emt.paisseon.vivy
 Version: 0.1b
