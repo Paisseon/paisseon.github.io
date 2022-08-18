@@ -59,7 +59,7 @@
 				{
 					"class": "DepictionTableTextView",
 					"title": "Version",
-					"text": "1.0"
+					"text": "1.1"
 				},
 				{
 					"class": "DepictionTableTextView",
@@ -98,6 +98,17 @@
 			"class": "DepictionStackView",
 			"tintColor": "#CBA0DD",
 			"views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.1"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul>\n<li>Fix the crack expiring by changing trial to lifetime</li></ul>",
+                    "useRawFormat": true
+                },
 				{
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,

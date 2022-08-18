@@ -239,6 +239,24 @@ Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paiss
 Name: Ultimate Guitar Crack
 Sileodepiction: https://paisseon.github.io/depictions/tabs-crack.json
 
+Package: emt.paisseon.ultimateguitar
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/emt.paisseon.ultimateguitar_1.1_iphoneos-arm.deb
+Size: 3586
+MD5sum: 6b5fff09016692766d1aaf77439468a7
+SHA1: b6401f297373c598d543ae800b1881dbaa680c28
+SHA256: f5c77f7b22d7865b8f17a620ec65d65b59a4b85dce08985b3a928bf06325c0ef
+Section: Cracks
+Description: Ultimate Guitar Pro + Courses for free
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/tabs-crack.json&name=Ultimate-Guitar-Crack&dev=Paisseon
+Name: Ultimate Guitar Crack
+Sileodepiction: https://paisseon.github.io/depictions/tabs-crack.json
+
 Package: emt.paisseon.ulysses
 Version: 1.1
 Architecture: iphoneos-arm

@@ -28,7 +28,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>A MyBloxx fork that won't bootloop you or permanently kill your internet, unlike the original 🙃</li>\n<li>Configure using pbx in NewTerm, or the preferences</li>\n<li>Includes a CC module to quickly enable or disable</li></ul>",
+					"markdown": "<ul>\n<li>A MyBloxx fork that won't bootloop you or permanently kill your internet, unlike the original 🙃</li>\n<li>Configure using pbx in NewTerm, or the preferences</li>\n<li>Option to create your own blocklist to use</li>\n<li>Includes a CC module to quickly enable or disable</li></ul>",
 					"useRawFormat": true
 				},
 				{
