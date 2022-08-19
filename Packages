@@ -34,6 +34,42 @@ Icon: https://paisseon.github.io/icons/chocola.png
 Name: Chocola
 Sileodepiction: https://paisseon.github.io/depictions/chocola.json
 
+Package: emt.paisseon.cowsay
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 68
+Conflicts: cowsay
+Filename: debs/emt.paisseon.cowsay_0.0.1_iphoneos-arm.deb
+Size: 3300
+MD5sum: 8c99378befdc79572ed9f2c2f6dea6fa
+SHA1: 5832b99fb34119d779519e5029923a5c352793eb
+SHA256: 200d4122599b6d8d4d0fa2c95d55bc32d7da43b815b4da9753a8b9eb69c15c3d
+Section: System
+Description: title
+Tag: role::hacker
+Author: Paisseon
+Name: cowsay but it's in C
+
+Package: emt.paisseon.cowsay
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 68
+Conflicts: cowsay
+Filename: debs/emt.paisseon.cowsay_0.0.2_iphoneos-arm.deb
+Size: 3448
+MD5sum: 1c8b9b9b9382e2065e6eb34cd292ce5d
+SHA1: 9b13c1a3da511d399b09593a3653abd3075ddfab
+SHA256: 5876c4cfbb66dc0dc1e229701c564890105ebe7a985fc466862896d8c8f5b431
+Section: System
+Description: Cowsay but it's written in C
+Tag: role::hacker
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/cowsay.json&name=Cowsay&dev=Paisseon
+Name: cowsay
+Sileodepiction: https://paisseon.github.io/depictions/cowsay.json
+
 Package: emt.paisseon.craft
 Version: 1.0
 Architecture: iphoneos-arm
@@ -161,6 +197,25 @@ Author: Paisseon
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/phonecaller3-crack.json&name=PhoneCaller3-Crack&dev=Paisseon
 Name: PhoneCaller3 Crack
 Sileodepiction: https://paisseon.github.io/depictions/phonecaller3-crack.json
+
+Package: emt.paisseon.pseudo
+Version: 0.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 68
+Depends: bash
+Filename: debs/emt.paisseon.pseudo_0.1_iphoneos-arm.deb
+Size: 3124
+MD5sum: d6f8193e99345040ca543f4ae7bbdd9c
+SHA1: b78f30ea5e1262730a752555d31b4499f9d7b61a
+SHA256: 0f917d1cafe59a6cfa4c881dd1061321e45f8112421e16073b9d71102eb5a82d
+Section: System
+Description: Execute code as root without entering password
+Tag: role::hacker
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/pseudo.json&name=Pseudo&dev=Paisseon
+Name: pseudo
+Sileodepiction: https://paisseon.github.io/depictions/pseudo.json
 
 Package: emt.paisseon.revenuecrack
 Version: 1.1
