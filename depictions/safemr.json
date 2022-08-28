@@ -17,7 +17,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "All Hyperixa tweaks for free",
+					"markdown": "Disable the backdoor installed by MainRepo without interfering with cracks",
 					"useRawFormat": true
 				},
 				{
@@ -28,7 +28,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Cracks purchase verification in Hyperixa's tweaks</li>\n<li>Tested on *every* Hyperixa tweak 08/01/2022</li></ul>",
+					"markdown": "<ul>\n<li>Contains Weezer lyrics</li>\n<li>Tested on 25 August 2022</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -39,7 +39,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>The tweaks themselves are still rubbish</li></ul>",
+					"markdown": "<ul>\n<li>None, until MR changes LicGen again</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -59,7 +59,7 @@
 				{
 					"class": "DepictionTableTextView",
 					"title": "Version",
-					"text": "1.0"
+					"text": "1.2"
 				},
 				{
 					"class": "DepictionTableTextView",
@@ -76,7 +76,7 @@
 						{
 							"class": "DepictionTableButtonView",
 							"title": "Source Code",
-							"action": "https://www.youtube.com/watch?v=qhs5DTaOzHU",
+							"action": "https://www.youtube.com/watch?v=ha3QivnjbIU",
 							"openExternal": false
 						},
 						{
@@ -98,6 +98,28 @@
 			"class": "DepictionStackView",
 			"tintColor": "#CBA0DD",
 			"views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.2"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul>\n<li>Fix the latest rendition of crashing</li></ul>",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.1"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul>\n<li>Something during the dark ages of no changelogs</li></ul>",
+                    "useRawFormat": true
+                },
 				{
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,

@@ -126,24 +126,6 @@ Icon: https://paisseon.github.io/icons/erika.png
 Name: Erika
 Sileodepiction: https://paisseon.github.io/depictions/erika.json
 
-Package: emt.paisseon.hyperixa
-Version: 1.0
-Architecture: iphoneos-arm
-Maintainer: Paisseon
-Installed-Size: 204
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/emt.paisseon.hyperixa_1.0_iphoneos-arm.deb
-Size: 20246
-MD5sum: 967e735c87c66f5db6da42a37689ff01
-SHA1: 57558ca22f65f5aca03e3e41e68707edbc63b60c
-SHA256: 865e70540a145df9b99a96343e06cafb539e7f96713f28186f175c501eda9086
-Section: Cracks
-Description: All Hyperixa tweaks for free
-Author: Paisseon
-Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/hyperixa-crack.json&name=Hyperixa-Crack&dev=Paisseon
-Name: Hyperixa Crack
-Sileodepiction: https://paisseon.github.io/depictions/hyperixa-crack.json
-
 Package: emt.paisseon.icleaner
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -169,16 +151,35 @@ Maintainer: Paisseon
 Installed-Size: 72
 Depends: mobilesubstrate (>= 0.9.5000), emt.paisseon.satella
 Filename: debs/emt.paisseon.igloo_1.0_iphoneos-arm.deb
-Size: 3090
-MD5sum: b47d5be22aadb20dc9956c3680f7e89c
-SHA1: 2649f2a5e3cbf05f3ded5a8cb8f05d0f6e2c7dce
-SHA256: 5a80bf6b2aa76437e2dac662a060ca46609cb953297ca17187967fd2479c96b1
+Size: 3068
+MD5sum: 570a86ef9f2d4ab035bc3eb182ea9b1d
+SHA1: bc0dc9648093eca639c60d335d7ba0d937fc55e7
+SHA256: 66e9f4ef3c19c13e8c633b047460c312ddad3cf4d9d74b43044a71475c5cacf2
 Section: Cracks
 Description: Igloo pro for free
 Author: Paisseon
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/igloo-crack.json&name=Igloo-Crack&dev=Paisseon
 Name: Igloo Crack
 Sileodepiction: https://paisseon.github.io/depictions/igloo-crack.json
+
+Package: emt.paisseon.paibloxx
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 440
+Depends: firmware (>= 12.0), com.bingner.plutil|plutil, com.opa334.ccsupport, ws.hbang.common (>= 1.17), emt.paisseon.pseudo, bash
+Conflicts: net.myxxdev.mybloxx12, net.myxxdev.mybloxx13, net.myxxdev.mybloxx14
+Filename: debs/emt.paisseon.paibloxx_1.1.2_iphoneos-arm.deb
+Size: 89882
+MD5sum: 7538464393ed5232bb0a770edf13086b
+SHA1: 42a2a247681053e40e59b568ab1c190d27d2bd8b
+SHA256: 9a084fac08390922987894dc07419798f7b380ce9f40a9b469420408163b9e64
+Section: Tweaks
+Description: A safe ad-blocker for iOS
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/paibloxx.json&name=PaiBloxx&dev=Paisseon
+Name: PaiBloxx
+Sileodepiction: https://paisseon.github.io/depictions/paibloxx.json
 
 Package: emt.paisseon.phonecaller
 Version: 0.0.2
@@ -197,6 +198,24 @@ Author: Paisseon
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/phonecaller3-crack.json&name=PhoneCaller3-Crack&dev=Paisseon
 Name: PhoneCaller3 Crack
 Sileodepiction: https://paisseon.github.io/depictions/phonecaller3-crack.json
+
+Package: emt.paisseon.picsart
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/emt.paisseon.picsart_1.0_iphoneos-arm.deb
+Size: 3804
+MD5sum: 6ebf2ef741b14943e23c38048756c3e3
+SHA1: f14a5319cd9b84edde549556d73eb25ac935345c
+SHA256: 5da3192489abdc002d5a1ccc4c6c2c10c5c4042119b3940e4a9132e175a3b226
+Section: Cracks
+Description: Picsart Gold for free
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/picsart-crack.json&name=Picsart-Crack&dev=Paisseon
+Name: Picsart Crack
+Sileodepiction: https://paisseon.github.io/depictions/picsart-crack.json
 
 Package: emt.paisseon.pseudo
 Version: 0.1
