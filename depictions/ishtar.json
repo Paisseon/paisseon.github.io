@@ -106,7 +106,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<ul>\n<li>Code improvements</li>\n<li>Attempt to add jailed .ipa compatibility? Untested</li></ul>",
+                    "markdown": "<ul>\n<li>Code improvements</li>\n<li>Fix compatibility with apps that block CydiaSubstrate 😉</li></ul>",
                     "useRawFormat": true
                 },
 				{
