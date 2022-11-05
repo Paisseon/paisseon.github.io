@@ -102,7 +102,7 @@
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,
                     "useBottomMargin": false,
-                    "title": "0.0.1"
+                    "title": "0.0.2"
                 },
                 {
                     "class": "DepictionMarkdownView",
