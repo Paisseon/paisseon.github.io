@@ -350,6 +350,26 @@ Icon: https://paisseon.github.io/icons/satella.png
 Name: Satella
 Sileodepiction: https://paisseon.github.io/depictions/satella.json
 
+Package: emt.paisseon.satella
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 480
+Depends: firmware (>= 12.2), ws.hbang.common (>= 1.17), com.opa334.altlist (>= 1.0.7)
+Conflicts: ai.paisseon.satella
+Filename: debs/emt.paisseon.satella_1.4.1_iphoneos-arm.deb
+Size: 63392
+MD5sum: 20b3de2403dcd67161377779d8f87f5b
+SHA1: c5488e51ad2ea799df6affe925e8ed1d30a6587f
+SHA256: f2cc54425d460a4554e2b1365c415122a23b3dc7535ef05943d0aac6b2394a2e
+Section: Tweaks (Piracy)
+Description: Modern in-app purchase cracker
+Author: Lilliana
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/satella.json&name=Satella&dev=Paisseon
+Icon: https://paisseon.github.io/icons/satella.png
+Name: Satella
+Sileodepiction: https://paisseon.github.io/depictions/satella.json
+
 Package: emt.paisseon.ultimateguitar
 Version: 1.0
 Architecture: iphoneos-arm
