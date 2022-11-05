@@ -19,13 +19,13 @@ Package: emt.paisseon.apollocrack
 Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: Lilliana (Paisseon)
-Installed-Size: 116
+Installed-Size: 120
 Depends: firmware (>= 14.0)
 Filename: debs/emt.paisseon.apollocrack_1.3_iphoneos-arm.deb
-Size: 20184
-MD5sum: 77012ae3c488335584e4d84f0104adff
-SHA1: 9ca262e68d8038232d8044f081b12511af36ffcd
-SHA256: 97e0ac78121c981af05202f85df60ea31c17a8f7352d0e0d24adf006f1414753
+Size: 20290
+MD5sum: d1aee9667f63e8a38419e57ec343c0cd
+SHA1: fcd1990f9ac5e9156d6ecb2fa78f23f5cd3006b7
+SHA256: 77d1f37310bcd5efd22ad78988bfe371daeb0e762985532209e7a6debefa2284
 Section: Cracks
 Description: Apollo Ultra for free
 Author: Lilliana (Paisseon)
@@ -354,14 +354,14 @@ Package: emt.paisseon.satella
 Version: 1.4.1
 Architecture: iphoneos-arm
 Maintainer: Lilliana
-Installed-Size: 480
+Installed-Size: 468
 Depends: firmware (>= 12.2), ws.hbang.common (>= 1.17), com.opa334.altlist (>= 1.0.7)
 Conflicts: ai.paisseon.satella
 Filename: debs/emt.paisseon.satella_1.4.1_iphoneos-arm.deb
-Size: 63392
-MD5sum: 20b3de2403dcd67161377779d8f87f5b
-SHA1: c5488e51ad2ea799df6affe925e8ed1d30a6587f
-SHA256: f2cc54425d460a4554e2b1365c415122a23b3dc7535ef05943d0aac6b2394a2e
+Size: 63176
+MD5sum: 44203771c57d1ee82e060a459d76ca3f
+SHA1: 077cc630c5b07ee0e337837ea36f346b41bc9842
+SHA256: 4f981892cc13581cf10399022d20800a98805cedd24ae65e7269ab98de0574df
 Section: Tweaks (Piracy)
 Description: Modern in-app purchase cracker
 Author: Lilliana
