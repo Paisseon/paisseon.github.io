@@ -28,7 +28,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Automatically unlocks subscription</li>\n<li>Tested on Ulysses 27.3</li></ul>",
+					"markdown": "<ul>\n<li>Automatically unlocks subscription</li>\n<li>Tested on Ulysses 28.1</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -98,6 +98,17 @@
 			"class": "DepictionStackView",
 			"tintColor": "#CBA0DD",
 			"views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.2"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul>\n<li>Rewrite in Jinx. Why do I keep rewriting a fully functional tweak? No idea</li></ul>",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,

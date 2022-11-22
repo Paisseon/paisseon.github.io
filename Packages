@@ -31,6 +31,22 @@ Description: Apollo Ultra for free
 Author: Lilliana (Paisseon)
 Name: Apollo Ultra Crack
 
+Package: emt.paisseon.apollocrack
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 116
+Depends: firmware (>= 14.0)
+Filename: debs/emt.paisseon.apollocrack_1.3.1_iphoneos-arm.deb
+Size: 16610
+MD5sum: 1ffa267fb10c5a0a56be59ca8bb61295
+SHA1: ce34f656786adb97442813cb7e8a8a93f59f506c
+SHA256: c8fae49c2974b99b1d6d969064264b2bf09043fa3a9ae85b3af7229069a5dfcd
+Section: Cracks
+Description: Apollo Ultra for free
+Author: Lilliana
+Name: Apollo Ultra Crack
+
 Package: emt.paisseon.chocola
 Version: 1.1
 Architecture: iphoneos-arm
@@ -370,6 +386,26 @@ Icon: https://paisseon.github.io/icons/satella.png
 Name: Satella
 Sileodepiction: https://paisseon.github.io/depictions/satella.json
 
+Package: emt.paisseon.satella
+Version: 1.4.2
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 536
+Depends: firmware (>= 12.2), ws.hbang.common (>= 1.17), com.opa334.altlist (>= 1.0.7)
+Conflicts: ai.paisseon.satella
+Filename: debs/emt.paisseon.satella_1.4.2_iphoneos-arm.deb
+Size: 78008
+MD5sum: aa3b5e57311c543db70e0b7a7f22d3e5
+SHA1: 957f44f650d28568cf65e50f1f6ec1f364b19557
+SHA256: 71797fa14ec7f0280fa48e0fb3088dc96560359e22fe72a272d5d7c25449ff58
+Section: Tweaks (Piracy)
+Description: Modern in-app purchase cracker
+Author: Lilliana
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/satella.json&name=Satella&dev=Paisseon
+Icon: https://paisseon.github.io/icons/satella.png
+Name: Satella
+Sileodepiction: https://paisseon.github.io/depictions/satella.json
+
 Package: emt.paisseon.ultimateguitar
 Version: 1.0
 Architecture: iphoneos-arm
@@ -424,6 +460,22 @@ Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paiss
 Name: Ulysses Crack
 Sileodepiction: https://paisseon.github.io/depictions/ulysses-crack.json
 
+Package: emt.paisseon.ulysses
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 192
+Depends: firmware (>= 12.2)
+Filename: debs/emt.paisseon.ulysses_1.2_iphoneos-arm.deb
+Size: 18544
+MD5sum: 11b7e4ddd56964c56f06a28fd958ac8d
+SHA1: af4fd60919dc944c240f741e843236c45e64af34
+SHA256: a8a38e8a30fda9450eb83df05a22fcc628ecdea4a13dfa61236a4e53fc55965c
+Section: Cracks
+Description: Ulysses subscription for free
+Author: Lilliana
+Name: Ulysses Crack
+
 Package: emt.paisseon.vivy
 Version: 0.1b
 Architecture: iphoneos-arm
@@ -463,6 +515,22 @@ Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paiss
 Name: ZSVPN Crack
 Sileodepiction: https://paisseon.github.io/depictions/zsvpn-crack.json
 
+Package: lilliana.filzacrack
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 100
+Depends: firmware (>= 12.2)
+Filename: debs/lilliana.filzacrack_0.0.1_iphoneos-arm.deb
+Size: 16544
+MD5sum: a42e446e480b5be5867101c89390cfb8
+SHA1: 0545c10a2eb1b7878f0b9ccb06cc340c6f22e77e
+SHA256: 659b2c348893ea3842ee2770e5d6184ddfd8258f8e8200c340a7b840d0e0ddac
+Section: Cracks
+Description: Filza activation for free
+Author: Lilliana
+Name: Filza Crack
+
 Package: lilliana.ishtar
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -492,6 +560,22 @@ Size: 13896
 MD5sum: c30551f33dc2f619a9bf1a7adf07d2f6
 SHA1: 4253798cccd48fe160d01d7cd0637f95d7d8dfbb
 SHA256: a0ff7421a5f4b86dd53aa18088c4f8dca689ac272a42fa91784ebb42b4244e57
+Section: Tweaks (Piracy)
+Description: Use VIP cheats with a free account
+Author: Lilliana
+Name: Ishtar
+
+Package: lilliana.ishtar
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 100
+Depends: firmware (>= 12.2)
+Filename: debs/lilliana.ishtar_0.0.3_iphoneos-arm.deb
+Size: 14586
+MD5sum: 7ed25671be8b83d5165110d21bbd81a4
+SHA1: 91c74ee2f60c51f045f418985d70031a712a1a63
+SHA256: 582f3a3d16675de1a1261bbcb5d36b2bdd6ec33d695478c362109532d80e4650
 Section: Tweaks (Piracy)
 Description: Use VIP cheats with a free account
 Author: Lilliana
