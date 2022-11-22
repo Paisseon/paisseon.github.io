@@ -572,12 +572,14 @@ Maintainer: Lilliana
 Installed-Size: 100
 Depends: firmware (>= 12.2)
 Filename: debs/lilliana.ishtar_0.0.3_iphoneos-arm.deb
-Size: 14586
-MD5sum: 7ed25671be8b83d5165110d21bbd81a4
-SHA1: 91c74ee2f60c51f045f418985d70031a712a1a63
-SHA256: 582f3a3d16675de1a1261bbcb5d36b2bdd6ec33d695478c362109532d80e4650
+Size: 14662
+MD5sum: 0fcab2e5addc83d5a07ce08dfa08b954
+SHA1: 50968b5321fd34f4b6ad888cea01dbc36add40a0
+SHA256: ed9bc2d31424e03d73abab26e47b53b0cb8024e141622ee3fb61ac8693e39415
 Section: Tweaks (Piracy)
 Description: Use VIP cheats with a free account
 Author: Lilliana
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/ishtar.json&name=Ishtar&dev=Paisseon
 Name: Ishtar
+Sileodepiction: https://paisseon.github.io/depictions/ishtar.json
 
