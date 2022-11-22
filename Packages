@@ -47,6 +47,22 @@ Description: Apollo Ultra for free
 Author: Lilliana
 Name: Apollo Ultra Crack
 
+Package: emt.paisseon.apollocrack
+Version: 1.3.2
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 116
+Depends: firmware (>= 14.0)
+Filename: debs/emt.paisseon.apollocrack_1.3.2_iphoneos-arm.deb
+Size: 15246
+MD5sum: 12f76ffe793cc98c7cd5f90124ddce0e
+SHA1: 8988b37ec52f6b24bbdd763c92c5481e95434f5d
+SHA256: dccef916f0aa9c74530c52c3fb730b114da4e77cd06215f71b2d450eb69ba807
+Section: Cracks
+Description: Apollo Ultra for free
+Author: Lilliana
+Name: Apollo Ultra Crack
+
 Package: emt.paisseon.chocola
 Version: 1.1
 Architecture: iphoneos-arm
