@@ -39,7 +39,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Icons flash when viewing notification centre from the home screen</li>\n<li>Slight delay on resuming video play</li></ul>",
+					"markdown": "<ul>\n<li><b>One-way ticket to safe mode on iOS 15</b></li>\n<li>Icons flash when viewing notification centre from the home screen</li>\n<li>Slight delay on resuming video play</li></ul>",
 					"useRawFormat": true
 				},
 				{

@@ -118,23 +118,24 @@ Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paiss
 Name: cowsay
 Sileodepiction: https://paisseon.github.io/depictions/cowsay.json
 
-Package: emt.paisseon.craft
-Version: 1.0
+Package: emt.paisseon.erika
+Version: 1.10
 Architecture: iphoneos-arm
-Maintainer: Paisseon
-Installed-Size: 72
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/emt.paisseon.craft_1.0_iphoneos-arm.deb
-Size: 3976
-MD5sum: 533a73a19589e38c37daa675bd1989c2
-SHA1: cb77cbf5a9354ffae645eace2dfc4b3b29f070a8
-SHA256: 0c8816eb13d256d117bcb37e895756106890f607d71e099860818cf2ce8d0436
-Section: Cracks
-Description: Craft subscription for free
-Author: Paisseon
-Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/craft-crack.json&name=Craft-Crack&dev=Paisseon
-Name: Craft Crack
-Sileodepiction: https://paisseon.github.io/depictions/craft-crack.json
+Maintainer: Lilliana
+Installed-Size: 504
+Depends: firmware (>= 15.0) | lilliana.async
+Filename: debs/emt.paisseon.erika_1.10_iphoneos-arm.deb
+Size: 90838
+MD5sum: 53a497f805efe179b6da289fa8aaad8f
+SHA1: 4af0269be19e0471323c9c2375f655b718660b28
+SHA256: 678a1438bd708a3202e0454deb9483116ab9db9deb9cea2b6bcaedfd084724a1
+Section: Tweaks (Piracy)
+Description: Download paid tweaks for free
+Author: Lilliana
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/erika.json&name=Erika&dev=Paisseon
+Icon: https://paisseon.github.io/icons/erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/depictions/erika.json
 
 Package: emt.paisseon.erika
 Version: 1.9
@@ -228,24 +229,6 @@ Author: Paisseon
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/paibloxx.json&name=PaiBloxx&dev=Paisseon
 Name: PaiBloxx
 Sileodepiction: https://paisseon.github.io/depictions/paibloxx.json
-
-Package: emt.paisseon.phonecaller
-Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: Paisseon
-Installed-Size: 72
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/emt.paisseon.phonecaller_0.0.2_iphoneos-arm.deb
-Size: 3454
-MD5sum: 2d68dd1445967895025b91d7621e797d
-SHA1: d016c32fdda611d8bbe8abde6bc64a7697d1d192
-SHA256: fc889beb22b46ddc1ea5bee58bc2ce80495455c3e8d461fb0d4fff525145dd8e
-Section: Cracks
-Description: PhoneCaller3 for free
-Author: Paisseon
-Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/phonecaller3-crack.json&name=PhoneCaller3-Crack&dev=Paisseon
-Name: PhoneCaller3 Crack
-Sileodepiction: https://paisseon.github.io/depictions/phonecaller3-crack.json
 
 Package: emt.paisseon.picsart
 Version: 1.0
@@ -513,23 +496,22 @@ Icon: https://paisseon.github.io/icons/vivy.png
 Name: Vivy
 Sileodepiction: https://paisseon.github.io/depictions/vivy.json
 
-Package: emt.paisseon.zsvpn
-Version: 1.0
+Package: lilliana.async
+Version: 0.0.1
 Architecture: iphoneos-arm
-Maintainer: Paisseon
-Installed-Size: 72
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/emt.paisseon.zsvpn_1.0_iphoneos-arm.deb
-Size: 3216
-MD5sum: 7eec7a82ba5e8a9a78fb17651235a458
-SHA1: 7abaa83654e13368becc46ae3218bfd50e2c6b38
-SHA256: 74b148c15cb15f155cb34477c6cbfd238ab249f228d3fa585ece96c3f207051b
-Section: Cracks
-Description: ZSVPN subscription for free
-Author: Paisseon
-Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/zsvpn-crack.json&name=ZSVPN-Crack&dev=Paisseon
-Name: ZSVPN Crack
-Sileodepiction: https://paisseon.github.io/depictions/zsvpn-crack.json
+Maintainer: Lilliana
+Installed-Size: 504
+Depends: firmware (>= 13.0), firmware (<< 15.0)
+Filename: debs/lilliana.async_0.0.1_iphoneos-arm.deb
+Size: 114196
+MD5sum: ceb0cc9edde2bb4bdefcdf67fe5e6ace
+SHA1: 360f8e829ea4a5f359f2c59ef385f82d751a53a0
+SHA256: 284b16de59700ee10d9ad26a0008b8e0fc7ee27fff8fcecc10a0af6361cb4cab
+Section: System
+Description: Fix async not working in tweaks (iOS 13-14)
+Tag: role::developer
+Author: Lilliana
+Name: libasync
 
 Package: lilliana.filzacrack
 Version: 0.0.1

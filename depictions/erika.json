@@ -70,7 +70,7 @@
 				{
 					"class": "DepictionTableTextView",
 					"title": "Version",
-					"text": "1.9.1"
+					"text": "1.10"
 				},
 				{
 					"class": "DepictionTableTextView",
@@ -109,6 +109,17 @@
 			"class": "DepictionStackView",
 			"tintColor": "#CBA0DD",
 			"views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.10"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul>\n<li>iOS 15 compatibility</li>\n<li>Massive speed improvements</li>\n<li>Better progress indicator</li>\n<li>Fix \"Don't Get Zappy\" button not working on Saily</li>\n<li>Small UI changes</li>\n<li>Switch from Orion to Jinx</li></ul>",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,
