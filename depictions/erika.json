@@ -39,7 +39,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>A tweak not being found on the server is <i>not</i> a bug, don't DM me saying Erika isn't working if you see that error message</li>\n<li>Very large tweaks, such as themes, may take several seconds to download</li></ul>",
+					"markdown": "<ul>\n<li>A tweak not being found on the server is <i>not</i> a bug, don't DM me saying Erika isn't working if you see that error message</li>\n<li>**Xina users:** If you try Erika with Sileo it will do nothing, with rooted Saily it will crash. Use only with the *rootless* Saily.</li></ul>",
 					"useRawFormat": true
 				},
 				{
