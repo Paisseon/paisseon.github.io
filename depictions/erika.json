@@ -50,7 +50,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>In <b>everything except Saily</b>, tap the tweak's icon at the top of the depiction page.</li>\n<li>In <b>Saily</b>, tap the Buy button and select Erika from the dropdown menu</li>\n<li>Once the Erika screen appears, tap Download and wait for it to finish</li>\n<li>If it says Success at the top, tap Get Zappy to go to Filza. Obviously this requires having Filza, which everyone should have anyway\n<li>Install like you would any other deb</li></ul>",
+					"markdown": "<ul>\n<li>In <b>everything except Saily</b>, tap the tweak's icon at the top of the depiction page.</li>\n<li>In <b>Saily</b>, tap the Buy button and select Erika from the dropdown menu</li>\n<li>Once the Erika screen appears, tap Download and wait for it to finish</li>\n<li>If it says Success at the top, tap Get Zappy to go to Filza. Obviously this requires having Filza, which everyone should have anyway\n<li>Install like you would any other deb. For iOS 15 jailbreaks, you will need Filza 4.0 or higher</li></ul>",
 					"useRawFormat": true
 				},
 				{
