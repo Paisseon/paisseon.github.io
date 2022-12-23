@@ -548,6 +548,38 @@ Description: Filza activation for free
 Author: Lilliana
 Name: Filza Crack
 
+Package: lilliana.filzacrack
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 100
+Depends: firmware (>= 12.2)
+Filename: debs/lilliana.filzacrack_0.0.2_iphoneos-arm.deb
+Size: 16706
+MD5sum: 607f90248bfbfe6e5b5205856c1a0314
+SHA1: 790a1dab267971a0cdf8dd677d066f274832df27
+SHA256: b186756d9bb72ad1df4f0a1c39a5c082ac4b3b9b27cebcea151231b54cd67671
+Section: Cracks
+Description: Filza activation for free
+Author: Lilliana
+Name: Filza Crack
+
+Package: lilliana.filzacrack
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 100
+Depends: firmware (>= 12.2)
+Filename: debs/lilliana.filzacrack_0.0.3_iphoneos-arm.deb
+Size: 16726
+MD5sum: 46a7754b45108f2c32c212e5c4c3a07f
+SHA1: e8673989162c1f90264000dfa1e8bc74212c214c
+SHA256: e98c971400932e26ba351305a6d3652d081db4f2b51547efbae091e8d746ddba
+Section: Cracks
+Description: Filza activation for free
+Author: Lilliana
+Name: Filza Crack
+
 Package: lilliana.ishtar
 Version: 0.0.1
 Architecture: iphoneos-arm
