@@ -28,7 +28,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>The official Swift successor to Satella</li>\n<li>Compatible with iOS 12.2 - 15.7.1 and all devices</li>\n<li>Fast and lightweight</li>\n<li>Receipt generator and custom observer to increase success rate</li>\n<li>Choose which apps to inject Satella into</li>\n<li>Purchases have persistence and can even be restored on a non-jailbroken device using app data backups in iMazing, 3uTools, or i4Tools</li>\n<li>Experimental support for in-app purchases in sideloaded apps</li>\n<li>Experimental stealth toggle to hide from piracy detection</li></ul>",
+					"markdown": "<ul>\n<li>The official Swift successor to Satella</li>\n<li>Compatible with iOS 12-16 and all devices</li>\n<li>Fast and lightweight</li>\n<li>Receipt generator and custom observer to increase success rate</li>\n<li>Choose which apps to inject Satella into</li>\n<li>Purchases have persistence and can even be restored on a non-jailbroken device using app data backups in iMazing, 3uTools, or i4Tools</li>\n<li>Experimental support for in-app purchases in sideloaded apps</li>\n<li>Experimental stealth toggle to hide from piracy detection</li></ul>",
 					"useRawFormat": true
 				},
                 {
@@ -39,7 +39,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<ul>\n<li><b>Enable</b> Disabling this prevents Satella from working, obviously</li>\n<li><b>Receipts</b> Create a false receipt and hijack Apple's default verification. Most effective on iOS 12-13, but occasionally works on iOS 14-15</li>\n<li><b>Observer</b> Prevent duplicate purchases taking the same memory (fixes some apps)</li>\n<li><b>Sideloaded Apps</b> Add compatibility for sideloaded apps that are not permasigned. Only enable if you use sideloaded apps with IAP as it breaks some App Store apps.</li>\n<li><b>Stealth</b> Hide Satella from piracy detection</li>\n<li>\n<li><b>0,00 Price</b> Change the price label to 0,00 (debug purposes)</li><b>Global Injection</b> Enable Satella in all user apps by default</li>\n<li><b>Enabled Apps</b> Enable Satella in specific apps, chosen by you. Overridden by Global Injection, if it is enabled.</li></ul>",
+                    "markdown": "<ul>\n<li><b>Enable</b> Disabling this prevents Satella from working, obviously</li>\n<li><b>Receipts</b> Create a false receipt and hijack Apple's default verification. Most effective on iOS 12-13, but occasionally works on iOS 14-16</li>\n<li><b>Observer</b> Prevent duplicate purchases taking the same memory (fixes some apps)</li>\n<li><b>Sideloaded Apps</b> Add compatibility for sideloaded apps that are not permasigned. Only enable if you use sideloaded apps with IAP as it breaks some App Store apps.</li>\n<li><b>Stealth</b> Hide Satella from piracy detection</li>\n<li>\n<li><b>0,00 Price</b> Change the price label to 0,00 (debug purposes)</li><b>Global Injection</b> Enable Satella in all user apps by default</li>\n<li><b>Enabled Apps</b> Enable Satella in specific apps, chosen by you. Overridden by Global Injection, if it is enabled.</li></ul>",
                     "useRawFormat": true
                 },
 				{
@@ -50,7 +50,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Whether receipt generation works on iOS 14 seems to be completely random so good luck 🤷‍♀️</li>\n<li><b>Not every app is compatible.</b> If both Satella and LocalIAPStore fail, assume the app is server-sided</li></ul>",
+					"markdown": "<ul>\n<li>Whether receipt generation works on iOS 14+ seems to be completely random so good luck 🤷‍♀️</li>\n<li><b>Not every app is compatible.</b> If both Satella and LocalIAPStore fail, assume the app is server-sided</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -70,7 +70,7 @@
 				{
 					"class": "DepictionTableTextView",
 					"title": "Version",
-					"text": "1.4.2"
+					"text": "1.5"
 				},
 				{
 					"class": "DepictionTableTextView",
@@ -109,6 +109,17 @@
 			"class": "DepictionStackView",
 			"tintColor": "#CBA0DD",
 			"views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.5"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul><li>Partially reverted 1.4.2 to (hopefully) prevent rare crashes, it still is used in /verifyReceipt response spoofing but not in SKPaymentTransaction.transactionReceipt</li>\n<li>Cephei is now used exclusively in the preferences bundle for iOS 16 compatibility</li>\n<li>Replaced all ObjC with Swift and Assembly</li></ul>",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,

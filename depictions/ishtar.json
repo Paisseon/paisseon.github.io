@@ -59,7 +59,7 @@
 				{
 					"class": "DepictionTableTextView",
 					"title": "Version",
-					"text": "0.0.3"
+					"text": "0.0.4"
 				},
 				{
 					"class": "DepictionTableTextView",
@@ -76,7 +76,7 @@
 						{
 							"class": "DepictionTableButtonView",
 							"title": "Source Code",
-							"action": "https://www.youtube.com/watch?v=qhs5DTaOzHU",
+							"action": "https://github.com/Paisseon/Ishtar,
 							"openExternal": false
 						},
 						{
@@ -98,6 +98,17 @@
 			"class": "DepictionStackView",
 			"tintColor": "#CBA0DD",
 			"views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "0.0.4"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul>\n<li>Only iterate image list once</li>\n<li>Replace ObjC with Assembly</li>\n<li>Open source now</li></ul>",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,

@@ -157,6 +157,25 @@ Name: Erika
 Sileodepiction: https://paisseon.github.io/depictions/erika.json
 
 Package: emt.paisseon.erika
+Version: 1.10.2
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 252
+Depends: firmware (>= 15.0) | lilliana.async
+Filename: debs/emt.paisseon.erika_1.10.2_iphoneos-arm.deb
+Size: 57520
+MD5sum: 96d8dd84e43659a65d743b643d1b5ec9
+SHA1: 7731f7606abdb591c2848ec827b6a94f7cf657ef
+SHA256: 2a814bacf543275251e40b6b7731bbf20d217cbdc56abd0bfa79d705abfe896e
+Section: Tweaks (Piracy)
+Description: Download paid tweaks for free
+Author: Lilliana
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/erika.json&name=Erika&dev=Paisseon
+Icon: https://paisseon.github.io/icons/erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/depictions/erika.json
+
+Package: emt.paisseon.erika
 Version: 1.9
 Architecture: iphoneos-arm
 Maintainer: Paisseon
@@ -424,6 +443,26 @@ Icon: https://paisseon.github.io/icons/satella.png
 Name: Satella
 Sileodepiction: https://paisseon.github.io/depictions/satella.json
 
+Package: emt.paisseon.satella
+Version: 1.5
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 412
+Depends: firmware (>= 12.2), ws.hbang.common (>= 1.17), com.opa334.altlist (>= 1.0.7)
+Conflicts: ai.paisseon.satella
+Filename: debs/emt.paisseon.satella_1.5_iphoneos-arm.deb
+Size: 65334
+MD5sum: 184034689423b68624c9db4bb0bb3520
+SHA1: 4d00c57c00784b0378be9c7fe69c7d565e285909
+SHA256: 80248e666f545d8b2a7286244cb6e6bb1867514f1f63cfe77acf718ebf9d4cc1
+Section: Tweaks (Piracy)
+Description: Modern in-app purchase cracker
+Author: Lilliana
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/satella.json&name=Satella&dev=Paisseon
+Icon: https://paisseon.github.io/icons/satella.png
+Name: Satella
+Sileodepiction: https://paisseon.github.io/depictions/satella.json
+
 Package: emt.paisseon.ultimateguitar
 Version: 1.0
 Architecture: iphoneos-arm
@@ -489,6 +528,22 @@ Size: 18544
 MD5sum: 11b7e4ddd56964c56f06a28fd958ac8d
 SHA1: af4fd60919dc944c240f741e843236c45e64af34
 SHA256: a8a38e8a30fda9450eb83df05a22fcc628ecdea4a13dfa61236a4e53fc55965c
+Section: Cracks
+Description: Ulysses subscription for free
+Author: Lilliana
+Name: Ulysses Crack
+
+Package: emt.paisseon.ulysses
+Version: 1.3
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 96
+Depends: firmware (>= 12.2)
+Filename: debs/emt.paisseon.ulysses_1.3_iphoneos-arm.deb
+Size: 13286
+MD5sum: ef8f14653b95ccf4212b044acb1111c5
+SHA1: b6f25906d09fcfa1cf2d241c200feda33056a743
+SHA256: 6f2c1b5e4604ecb579b19dc033999719e22968a3fa2886634b100a056a04878d
 Section: Cracks
 Description: Ulysses subscription for free
 Author: Lilliana
@@ -568,15 +623,15 @@ Package: lilliana.filzacrack
 Version: 0.0.3
 Architecture: iphoneos-arm
 Maintainer: Lilliana
-Installed-Size: 100
+Installed-Size: 196
 Depends: firmware (>= 12.2)
 Filename: debs/lilliana.filzacrack_0.0.3_iphoneos-arm.deb
-Size: 16726
-MD5sum: 46a7754b45108f2c32c212e5c4c3a07f
-SHA1: e8673989162c1f90264000dfa1e8bc74212c214c
-SHA256: e98c971400932e26ba351305a6d3652d081db4f2b51547efbae091e8d746ddba
+Size: 24504
+MD5sum: 1e88757b5264cd6986c1d1d52a3bc0dc
+SHA1: f9f095d772e9c2761418074adbcba3b60c6d2b06
+SHA256: 0adf5b9af7a15c02de2ba8c2e8301817e49a9eb04e68c541ad70edeaa7c06c75
 Section: Cracks
-Description: Filza activation for free
+Description: Filza and AppsManager activation for free
 Author: Lilliana
 Name: Filza Crack
 
@@ -631,4 +686,38 @@ Author: Lilliana
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/ishtar.json&name=Ishtar&dev=Paisseon
 Name: Ishtar
 Sileodepiction: https://paisseon.github.io/depictions/ishtar.json
+
+Package: lilliana.ishtar
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 100
+Depends: firmware (>= 12.2)
+Filename: debs/lilliana.ishtar_0.0.4_iphoneos-arm.deb
+Size: 15662
+MD5sum: 84cd65d7bb7e0d743c9f5ec38c7fbd5a
+SHA1: ac241d8669ea3bb936917b5bbe722d7c416f324c
+SHA256: c64861d1078411ec70ec42e5acffd640eecf802aa0378cbd2b43c32638eaa248
+Section: Tweaks (Piracy)
+Description: Use VIP cheats with a free account
+Author: Lilliana
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/ishtar.json&name=Ishtar&dev=Paisseon
+Name: Ishtar
+Sileodepiction: https://paisseon.github.io/depictions/ishtar.json
+
+Package: lilliana.strongboxcrack
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 96
+Depends: firmware (>= 12.2)
+Filename: debs/lilliana.strongboxcrack_0.0.1_iphoneos-arm.deb
+Size: 12954
+MD5sum: 948618d5ef01af585baef55ca0a84e74
+SHA1: 8365e039da0c7651d5a6cba077422fe589ea3e5f
+SHA256: 60872011474ccf0a5f51a740aad80cca7508f04b5c6da310e867bc5f4535c2f8
+Section: Cracks
+Description: Strongbox Pro for free
+Author: Lilliana
+Name: Strongbox Crack
 
