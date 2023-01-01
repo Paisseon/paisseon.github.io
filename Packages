@@ -694,10 +694,10 @@ Maintainer: Lilliana
 Installed-Size: 100
 Depends: firmware (>= 12.2)
 Filename: debs/lilliana.ishtar_0.0.4_iphoneos-arm.deb
-Size: 15662
-MD5sum: 84cd65d7bb7e0d743c9f5ec38c7fbd5a
-SHA1: ac241d8669ea3bb936917b5bbe722d7c416f324c
-SHA256: c64861d1078411ec70ec42e5acffd640eecf802aa0378cbd2b43c32638eaa248
+Size: 15732
+MD5sum: b09dd4be2a54ee84b11e1f5ca76863a6
+SHA1: 0961dff832452d2d2e6aad403d04b7de76fa7d85
+SHA256: 6021c71f5d474b5fd6757861c6ec6ee34eb9e621dcfbe96172a0ef8778cc8677
 Section: Tweaks (Piracy)
 Description: Use VIP cheats with a free account
 Author: Lilliana
