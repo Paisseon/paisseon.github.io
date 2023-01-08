@@ -821,10 +821,10 @@ Maintainer: Lilliana
 Installed-Size: 240
 Depends: firmware (>= 12.2), ws.hbang.common (>= 1.17), preferenceloader, lilliana.jinxserver
 Filename: debs/lilliana.ishtar_0.0.5_iphoneos-arm.deb
-Size: 45794
-MD5sum: 2c9c996c1735c62d6e35531d2ecd139f
-SHA1: fa5796a8d8ee2ac82cd98612cfe40f13e742578c
-SHA256: a416a9b7c0838deb21923170ff88860a460570813b33dc0653665ceebab020f4
+Size: 45948
+MD5sum: 2fcd6bc45e963c9995795b9eb314ebe7
+SHA1: 1315b139415e8a976a896316b07399b8874ede85
+SHA256: 81dbd0c33a1e66e1dcf15740d441bdf471b8cb2dafba49ea5e14c57ea46f469b
 Section: Tweaks
 Description: iOSGods VIP cheats for free
 Author: Lilliana
@@ -839,10 +839,10 @@ Maintainer: Lilliana
 Installed-Size: 156
 Depends: firmware (>= 12.2), com.muirey03.libmryipc
 Filename: debs/lilliana.jinxserver_0.0.1_iphoneos-arm.deb
-Size: 12312
-MD5sum: d976c25ce1837b19fdd55b32666402e6
-SHA1: 9ae4aa7211477c913894c8e562cd8762d9b4b1e2
-SHA256: f3fe57ecad0c60768b396e59d5eb0ae1f1a6da7fdcaf6ab9b5c1130175cd55c5
+Size: 12402
+MD5sum: b3effd0d724b83cd565621659e30e45b
+SHA1: c7098528c292105e205fc601ba77f37f5d4b3d99
+SHA256: ef6d116a86e9e465e088bda447f0c250c3294d8b3dda5a7f4e55d6c0f3890144
 Section: System
 Description: A tweak which is shaped like itself and is as broad as it hath breadth
 Author: Lilliana
