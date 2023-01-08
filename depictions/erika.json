@@ -70,7 +70,7 @@
 				{
 					"class": "DepictionTableTextView",
 					"title": "Version",
-					"text": "1.10.2"
+					"text": "1.10.3"
 				},
 				{
 					"class": "DepictionTableTextView",
@@ -93,7 +93,7 @@
 						{
 							"class": "DepictionTableButtonView",
 							"title": "CyPwn's Discord",
-							"action": "https://discord.gg/VM2ZVWqxsj",
+							"action": "https://discord.gg/cypwn",
 							"openExternal": false
 						}
 					]
@@ -109,6 +109,17 @@
 			"class": "DepictionStackView",
 			"tintColor": "#CBA0DD",
 			"views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.10.3"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul>\n<li>Fix the Get Zappy not showing bug</li></ul>",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,

@@ -28,7 +28,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Unlocks VIP cheats for free users</li>\n<li>Unlocks VIP options in free cheats</li>\n<li>Native hooks for all jailbreaks</li></ul>",
+					"markdown": "<ul>\n<li>Unlocks VIP cheats for free users</li>\n<li>Unlocks VIP options in free cheats</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -39,7 +39,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>You have to get the deb yourself</li></ul>",
+					"markdown": "<ul>\n<li>You have to get the deb yourself</li>\n<ul>Must enable in each app from Ishtar's preferences. Not a bug.</ul>",
 					"useRawFormat": true
 				},
 				{
@@ -59,7 +59,7 @@
 				{
 					"class": "DepictionTableTextView",
 					"title": "Version",
-					"text": "0.0.4"
+					"text": "1.0.0"
 				},
 				{
 					"class": "DepictionTableTextView",
@@ -82,7 +82,7 @@
 						{
 							"class": "DepictionTableButtonView",
 							"title": "CyPwn's Discord",
-							"action": "https://discord.gg/VM2ZVWqxsj",
+							"action": "https://discord.gg/cypwn",
 							"openExternal": false
 						}
 					]
@@ -98,6 +98,17 @@
 			"class": "DepictionStackView",
 			"tintColor": "#CBA0DD",
 			"views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "0.0.5"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul>\n<li>Add preferences. It is disabled in apps by default, you have to enable it now</li></ul>",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,

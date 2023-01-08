@@ -39,7 +39,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "<ul>\n<li><b>Enable</b> Disabling this prevents Satella from working, obviously</li>\n<li><b>Receipts</b> Create a false receipt and hijack Apple's default verification. Most effective on iOS 12-13, but occasionally works on iOS 14-16</li>\n<li><b>Observer</b> Prevent duplicate purchases taking the same memory (fixes some apps)</li>\n<li><b>Sideloaded Apps</b> Add compatibility for sideloaded apps that are not permasigned. Only enable if you use sideloaded apps with IAP as it breaks some App Store apps.</li>\n<li><b>Stealth</b> Hide Satella from piracy detection</li>\n<li>\n<li><b>0,00 Price</b> Change the price label to 0,00 (debug purposes)</li><b>Global Injection</b> Enable Satella in all user apps by default</li>\n<li><b>Enabled Apps</b> Enable Satella in specific apps, chosen by you. Overridden by Global Injection, if it is enabled.</li></ul>",
+                    "markdown": "<ul>\n<li><b>Enable</b> Disabling this prevents Satella from working, obviously</li>\n<li><b>Receipts</b> Create a false receipt and hijack Apple's default verification. Most effective on iOS 12-13, but occasionally works on iOS 14-16</li>\n<li><b>Observer</b> Prevent duplicate purchases taking the same memory (fixes some apps)</li>\n<li><b>Sideloaded Apps</b> Add compatibility for sideloaded apps that are not permasigned. Disable this if you are having trouble with App Store apps.</li>\n<li><b>Stealth</b> Attempt to hide Satella from common methods of piracy detection</li>\n<li>\n<li><b>0,00 Price</b> Change the price label to 0,01 (debug purposes)</li><b>Global Injection</b> Enable Satella in all user apps by default</li>\n<li><b>Enabled Apps</b> Enable Satella in specific apps of your choice. Overridden by Global Injection, if it is enabled.</li></ul>",
                     "useRawFormat": true
                 },
 				{
@@ -50,7 +50,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Whether receipt generation works on iOS 14+ seems to be completely random so good luck 🤷‍♀️</li>\n<li><b>Not every app is compatible.</b> If both Satella and LocalIAPStore fail, assume the app is server-sided</li></ul>",
+					"markdown": "<ul>\n<li>Not every app is compatible. That would be impossible. If it doesn't work with LocalIAPStore or Satella either, give up.</li>\n<li>Additionally, Satella is a <i>generic</i> IAP cracker, not a specific one. Please don't make a GitHub issue or ping me asking me to make it work with X app.</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -70,7 +70,7 @@
 				{
 					"class": "DepictionTableTextView",
 					"title": "Version",
-					"text": "1.5"
+					"text": "1.6"
 				},
 				{
 					"class": "DepictionTableTextView",
@@ -109,6 +109,17 @@
 			"class": "DepictionStackView",
 			"tintColor": "#CBA0DD",
 			"views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.6"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul><li>Updated Jinx version, which should fix a rare crash in the Stealth toggle</li>\n<li>Improved preference reading</li>\n<li>Changed the package ID-- old IDs now serve as transitional packages</li></ul>",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,

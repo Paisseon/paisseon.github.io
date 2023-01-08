@@ -39,7 +39,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li><b>One-way ticket to safe mode on iOS 15</b></li>\n<li>Icons flash when viewing notification centre from the home screen</li>\n<li>Slight delay on resuming video play</li></ul>",
+					"markdown": "<ul>\n<li>Slight delay on resuming video play</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -59,7 +59,7 @@
 				{
 					"class": "DepictionTableTextView",
 					"title": "Version",
-					"text": "1.1"
+					"text": "1.2"
 				},
 				{
 					"class": "DepictionTableTextView",
@@ -98,6 +98,17 @@
 			"class": "DepictionStackView",
 			"tintColor": "#CBA0DD",
 			"views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.2"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul>\n<li>Fix icon flash bug</li>\n<li>Add iOS 15 compatibility</li>\n<li>Replace Orion with Jinx</li></ul>",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,

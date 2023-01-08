@@ -63,6 +63,24 @@ Description: Apollo Ultra for free
 Author: Lilliana
 Name: Apollo Ultra Crack
 
+Package: emt.paisseon.apollocrack
+Version: 1.3.3
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 248
+Depends: firmware (>= 12.2)
+Filename: debs/emt.paisseon.apollocrack_1.3.3_iphoneos-arm.deb
+Size: 35234
+MD5sum: 82736dd5fd464de22eca3f8479426a59
+SHA1: 4a03830bf624225bafe35770ce5fcbe13178d7ba
+SHA256: 201283dfc657d0c983c85e2cd858ffc276ed34c4e19a719aced92f7aba6000ee
+Section: Cracks
+Description: Apollo Ultra for free
+Author: Lilliana
+Depiction: Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/apollo-ultra-crack.json&name=ApolloCrack&dev=Lilliana
+Name: Apollo Ultra Crack
+Sileodepiction: https://paisseon.github.io/depictions/apollo-ultra-crack.json
+
 Package: emt.paisseon.chocola
 Version: 1.1
 Architecture: iphoneos-arm
@@ -81,6 +99,24 @@ Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paiss
 Icon: https://paisseon.github.io/icons/chocola.png
 Name: Chocola
 Sileodepiction: https://paisseon.github.io/depictions/chocola.json
+
+Package: emt.paisseon.chocola
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 448
+Depends: firmware (>= 12.2), ws.hbang.common (>= 1.17), preferenceloader, lilliana.jinxserver, com.mrgcgamer.libgcuniversal
+Filename: debs/emt.paisseon.chocola_1.2_iphoneos-arm.deb
+Size: 63706
+MD5sum: 6c81d2814d42eea77d481a225696fb8f
+SHA1: 0a9c2791549afd3d99fc9e0bfc43fd109db96c8b
+SHA256: 50ca5e5e69ba556742b0e714d2f7d3f46f98eb1ea3a44b3e4fe7efbfca9ec134
+Section: Tweaks
+Description: Lightweight video wallpapers
+Author: Lilliana
+Depiction: Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Chocola.json&name=Chocola&dev=Lilliana
+Name: Chocola
+Sileodepiction: https://paisseon.github.io/depictions/Chocola.json
 
 Package: emt.paisseon.cowsay
 Version: 0.0.1
@@ -174,6 +210,25 @@ Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paiss
 Icon: https://paisseon.github.io/icons/erika.png
 Name: Erika
 Sileodepiction: https://paisseon.github.io/depictions/erika.json
+
+Package: emt.paisseon.erika
+Version: 1.10.3
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 540
+Depends: firmware (>= 12.2), firmware (>= 15.0) | lilliana.async
+Filename: debs/emt.paisseon.erika_1.10.3_iphoneos-arm.deb
+Size: 97744
+MD5sum: 74199eefedb3f0ea6716484673d89613
+SHA1: 5526d775a45710ca9473aa2b90448ca9511113f2
+SHA256: 9aa575fced4b419ac40e626a9fb76fc6b3fd05eefaa124570b69d5a1cc9c1715
+Section: Tweaks (Piracy)
+Description: Download paid tweaks for free
+Author: Lilliana
+Depiction: Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Lilliana
+Icon: https://paisseon.github.io/icons/erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/depictions/Erika.json
 
 Package: emt.paisseon.erika
 Version: 1.9
@@ -463,6 +518,26 @@ Icon: https://paisseon.github.io/icons/satella.png
 Name: Satella
 Sileodepiction: https://paisseon.github.io/depictions/satella.json
 
+Package: emt.paisseon.satella
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 648
+Depends: firmware (>= 12.2), ws.hbang.common (>= 1.17), preferenceloader, lilliana.jinxserver
+Conflicts: ai.paisseon.satella
+Filename: debs/emt.paisseon.satella_1.6_iphoneos-arm.deb
+Size: 106682
+MD5sum: 1e996dba819204c017cd75214601a280
+SHA1: b311837dba9e8b6ceab3854d218f9126cdcde1a8
+SHA256: a36887d5f464406cb8350e916727df98db37dc7f432116c193bcaaca6f6a627b
+Section: Tweaks (Piracy)
+Description: Modern in-app purchase cracker
+Author: Lilliana
+Depiction: Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Satella.json&name=Satella&dev=Lilliana
+Icon: https://paisseon.github.io/icons/satella.png
+Name: Satella
+Sileodepiction: https://paisseon.github.io/depictions/Satella.json
+
 Package: emt.paisseon.ultimateguitar
 Version: 1.0
 Architecture: iphoneos-arm
@@ -548,6 +623,22 @@ Section: Cracks
 Description: Ulysses subscription for free
 Author: Lilliana
 Name: Ulysses Crack
+
+Package: emt.paisseon.ulysses
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 196
+Depends: firmware (>= 12.2)
+Filename: debs/emt.paisseon.ulysses_1.3.1_iphoneos-arm.deb
+Size: 26224
+MD5sum: 9f3cd0ea1e3c226c3c7aa656501b08d1
+SHA1: 3a7985770bfdd6d2d4008f99b68b3bf39caf2823
+SHA256: fc3fc2cff04bedc93574ca1415d35d3473c07df6247be9cc69ec13d235cfeb07
+Section: Cracks
+Description: Ulysses subscription for free
+Author: Lilliana
+Name: UlyssesCrack
 
 Package: emt.paisseon.vivy
 Version: 0.1b
@@ -635,6 +726,24 @@ Description: Filza and AppsManager activation for free
 Author: Lilliana
 Name: Filza Crack
 
+Package: lilliana.filzacrack
+Version: 0.0.4
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 196
+Depends: firmware (>= 12.2)
+Filename: debs/lilliana.filzacrack_0.0.4_iphoneos-arm.deb
+Size: 28910
+MD5sum: 9c65588710811ad678b74982034f52be
+SHA1: ccd57e197aee3d00ebafc8a26f243c7ae1bc82ec
+SHA256: 879e0da02c9e866ec9833b5959c499d69c8aad6a83f2db5237558120859da545
+Section: Cracks
+Description: Filza and AppsManager activation for free
+Author: Lilliana
+Depiction: Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/FilzaCrack.json&name=FilzaCrack&dev=Lilliana
+Name: Filza Crack
+Sileodepiction: https://paisseon.github.io/depictions/FilzaCrack.json
+
 Package: lilliana.ishtar
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -705,6 +814,56 @@ Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paiss
 Name: Ishtar
 Sileodepiction: https://paisseon.github.io/depictions/ishtar.json
 
+Package: lilliana.ishtar
+Version: 0.0.5
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 240
+Depends: firmware (>= 12.2), ws.hbang.common (>= 1.17), preferenceloader, lilliana.jinxserver
+Filename: debs/lilliana.ishtar_0.0.5_iphoneos-arm.deb
+Size: 45794
+MD5sum: 2c9c996c1735c62d6e35531d2ecd139f
+SHA1: fa5796a8d8ee2ac82cd98612cfe40f13e742578c
+SHA256: a416a9b7c0838deb21923170ff88860a460570813b33dc0653665ceebab020f4
+Section: Tweaks
+Description: iOSGods VIP cheats for free
+Author: Lilliana
+Depiction: Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Ishtar.json&name=Ishtar&dev=Lilliana
+Name: Ishtar
+Sileodepiction: https://paisseon.github.io/depictions/Ishtar.json
+
+Package: lilliana.jinxserver
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 156
+Depends: firmware (>= 12.2), com.muirey03.libmryipc
+Filename: debs/lilliana.jinxserver_0.0.1_iphoneos-arm.deb
+Size: 12312
+MD5sum: d976c25ce1837b19fdd55b32666402e6
+SHA1: 9ae4aa7211477c913894c8e562cd8762d9b4b1e2
+SHA256: f3fe57ecad0c60768b396e59d5eb0ae1f1a6da7fdcaf6ab9b5c1130175cd55c5
+Section: System
+Description: A tweak which is shaped like itself and is as broad as it hath breadth
+Author: Lilliana
+Name: Jinx IPC Server
+
+Package: lilliana.qxcrack
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 124
+Depends: firmware (>= 12.2)
+Filename: debs/lilliana.qxcrack_0.0.1_iphoneos-arm.deb
+Size: 22192
+MD5sum: 878141f51d677f53a5d53d25d1deeef5
+SHA1: af04592820c24860f80e889f8e5cfcc1fc3f2fa8
+SHA256: 3ad4111f695ab6a0ec7ac1a6ee077ec92d8668e03170d1e03f4d86798aff3783
+Section: Cracks
+Description: QuantumultX for free
+Author: Lilliana
+Name: QxCrack
+
 Package: lilliana.strongboxcrack
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -720,4 +879,22 @@ Section: Cracks
 Description: Strongbox Pro for free
 Author: Lilliana
 Name: Strongbox Crack
+
+Package: lilliana.strongboxcrack
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 196
+Depends: firmware (>= 12.2)
+Filename: debs/lilliana.strongboxcrack_0.0.2_iphoneos-arm.deb
+Size: 25908
+MD5sum: 72e4b85115cc2fc6f6408844864597eb
+SHA1: 137b7c01802ce8271b44a8ce9cb65c300ba7c605
+SHA256: 54cc7cd13e4a31de26391449f15490d25a15a8a8defbed0a9b5c95a4746a121f
+Section: Cracks
+Description: Strongbox Pro for free
+Author: Lilliana
+Depiction: Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/StrongboxCrack.json&name=StrongboxCrack&dev=Lilliana
+Name: StrongboxCrack
+Sileodepiction: https://paisseon.github.io/depictions/StrongboxCrack.json
 
