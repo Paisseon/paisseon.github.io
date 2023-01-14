@@ -118,6 +118,24 @@ Depiction: Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=ht
 Name: Chocola
 Sileodepiction: https://paisseon.github.io/depictions/Chocola.json
 
+Package: emt.paisseon.chocola
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 448
+Depends: firmware (>= 12.2), ws.hbang.common (>= 1.17), preferenceloader, lilliana.jinxserver, com.mrgcgamer.libgcuniversal
+Filename: debs/emt.paisseon.chocola_1.2.1_iphoneos-arm.deb
+Size: 67132
+MD5sum: b624f85a377289a8905a07fdaee4da52
+SHA1: 06f4649ff16388dcee3abaffc7f7d8f2fa9f13ce
+SHA256: 01d3768286a7777a7dad492ba811febe9436777c4d0a99e49f065628f2b031b1
+Section: Tweaks
+Description: Lightweight video wallpapers
+Author: Lilliana
+Depiction: Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Chocola.json&name=Chocola&dev=Lilliana
+Name: Chocola
+Sileodepiction: https://paisseon.github.io/depictions/Chocola.json
+
 Package: emt.paisseon.cowsay
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -744,6 +762,24 @@ Depiction: Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=ht
 Name: Filza Crack
 Sileodepiction: https://paisseon.github.io/depictions/FilzaCrack.json
 
+Package: lilliana.hecate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 232
+Depends: firmware (>= 12.2)
+Filename: debs/lilliana.hecate_0.0.1_iphoneos-arm.deb
+Size: 30070
+MD5sum: 28b4b8122ae8576e90f5cf5ce374edd1
+SHA1: 08f450f9508e61d14e5d734b65e35b6a0d4f02c9
+SHA256: 767d468940ce82f17902add812ebb2a9133a6a4fff0c4aa5be2e8f1cce34faa5
+Section: Tweaks
+Description: A tweak which is shaped like itself and is as broad as it hath breadth
+Author: Lilliana
+Depiction: Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Hecate.json&name=Hecate&dev=Lilliana
+Name: Hecate
+Sileodepiction: https://paisseon.github.io/depictions/Hecate.json
+
 Package: lilliana.ishtar
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -848,6 +884,40 @@ Description: A tweak which is shaped like itself and is as broad as it hath brea
 Author: Lilliana
 Name: Jinx IPC Server
 
+Package: lilliana.jinxserver
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 156
+Depends: firmware (>= 12.2), com.muirey03.libmryipc
+Filename: debs/lilliana.jinxserver_0.0.2_iphoneos-arm.deb
+Size: 12460
+MD5sum: 20f5ab06ac30524ada2307fd79b67def
+SHA1: 553fcadd7b4f6c3bb4b357614897cf7dc4d9a79d
+SHA256: 976b4ac9bbf358377942be269c8207b70df975c16b0a46f5b1d1bdd2cb8206b6
+Section: System
+Description: A tweak which is shaped like itself and is as broad as it hath breadth
+Author: Lilliana
+Name: Jinx IPC Server
+
+Package: lilliana.peepreborn
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 212
+Depends: firmware (>= 12.2)
+Filename: debs/lilliana.peepreborn_0.0.1_iphoneos-arm.deb
+Size: 28994
+MD5sum: 591d9d62e192d29dd971da74a20e96af
+SHA1: 880b78ffc4d6cbfaa35e48eecda71d9aa31a8947
+SHA256: dd3ab0c0309e6c12cec4bcc55c5f3a61a284c48f08f65dec7d657f796a4ac0b3
+Section: Tweaks
+Description: A tweak which is shaped like itself and is as broad as it hath breadth
+Author: Lilliana
+Depiction: Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/PeepReborn.json&name=PeepReborn&dev=Lilliana
+Name: PeepReborn
+Sileodepiction: https://paisseon.github.io/depictions/PeepReborn.json
+
 Package: lilliana.qxcrack
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -863,6 +933,40 @@ Section: Cracks
 Description: QuantumultX for free
 Author: Lilliana
 Name: QxCrack
+
+Package: lilliana.reverie
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 448
+Depends: firmware (>= 12.2), ws.hbang.common (>= 1.17), preferenceloader, lilliana.jinxserver
+Filename: debs/lilliana.reverie_0.0.1_iphoneos-arm.deb
+Size: 64896
+MD5sum: 628fad9cb1b223c1cec5fdf0ba865dac
+SHA1: 24387336fd873a74d362f5bb410944fc31e63673
+SHA256: d07a6c581f0af2b2abeea32a815261b95524bdeeb05d5ce2937e4fcb996b8cf3
+Section: Tweaks
+Description: A tweak which is shaped like itself and is as broad as it hath breadth
+Author: Lilliana
+Depiction: Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Reverie.json&name=Reverie&dev=Lilliana
+Name: Reverie
+Sileodepiction: https://paisseon.github.io/depictions/Reverie.json
+
+Package: lilliana.reveriecc
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 184
+Depends: firmware (>= 13.0), lilliana.reverie
+Filename: debs/lilliana.reveriecc_0.0.1_iphoneos-arm.deb
+Size: 12702
+MD5sum: eedc62b4c2b27caa596c5655739eca91
+SHA1: 61a667fcd8a0ac588ba0fe0ecc0fd2e8d09402eb
+SHA256: f492140d5127866046744b807c4457bf299465047633717fdce4367722f71f16
+Section: Control Centre
+Description: Activate Reverie hibernation from control centre
+Author: Lilliana
+Name: Reverie CC Module
 
 Package: lilliana.strongboxcrack
 Version: 0.0.1

@@ -28,7 +28,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Home screen and lock screen sync up perfectly</li>\n<li>About as battery-efficient as such things go, I suppose</li></ul>",
+					"markdown": "<ul>\n<li>Almost perfectly replaces the original wallpaper</li>\n<li>Lightweight and performant-- it won't kill your battery unless you're on the homescreen all the time</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -39,7 +39,7 @@
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>Slight delay on resuming video play</li></ul>",
+					"markdown": "<ul>\n<li>Slight delay on resuming video play when leaving an app</li></ul>",
 					"useRawFormat": true
 				},
 				{
@@ -59,7 +59,7 @@
 				{
 					"class": "DepictionTableTextView",
 					"title": "Version",
-					"text": "1.2"
+					"text": "1.2.1"
 				},
 				{
 					"class": "DepictionTableTextView",
@@ -82,7 +82,7 @@
 						{
 							"class": "DepictionTableButtonView",
 							"title": "CyPwn's Discord",
-							"action": "https://discord.gg/VM2ZVWqxsj",
+							"action": "https://discord.gg/cypwn",
 							"openExternal": false
 						}
 					]
@@ -98,6 +98,17 @@
 			"class": "DepictionStackView",
 			"tintColor": "#CBA0DD",
 			"views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.2.1"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul>\n<li>Fix iOS 14 compatibility</li>\n<li>Improve efficiency</li>\n<li>Fix blur view retaining tint from the original wallpaper</li></ul>",
+                    "useRawFormat": true
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,

@@ -46,11 +46,11 @@
 					"class": "DepictionSubheaderView",
 					"useBoldText": true,
 					"useBottomMargin": false,
-					"title": "How to Use"
+					"title": "Usage"
 				},
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "<ul>\n<li>In <b>everything except Saily</b>, tap the tweak's icon at the top of the depiction page.</li>\n<li>In <b>Saily</b>, tap the Buy button and select Erika from the dropdown menu</li>\n<li>Once the Erika screen appears, tap Download and wait for it to finish</li>\n<li>If it says Success at the top, tap Get Zappy to go to Filza. Obviously this requires having Filza, which everyone should have anyway\n<li>Install like you would any other deb. For iOS 15 jailbreaks, you will need Filza 4.0 or higher</li></ul>",
+					"markdown": "<ol>\n<li>In <b>Saily</b>, tap on the Buy button, then the Erika dropdown option</li>\n<li>In <b>everything else</b>, tap on the tweak's icon at the top of the depiction</li>\n<li>Tap on the Download button</li>\n<li>If "Get Zappy" appears, tap on that to go to the tweak in Filza (/var/mobile/Media/Erika if you don't have filza://)</li>\n<li>Install like you would any other .deb file. I recommend sharing to a package manager</li></ol>",
 					"useRawFormat": true
 				},
 				{
