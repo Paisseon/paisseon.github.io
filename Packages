@@ -350,12 +350,12 @@ Version: 1.7.1
 Architecture: iphoneos-arm
 Maintainer: Lilliana
 Installed-Size: 684
-Depends: firmware (>= 12.2), ws.hbang.common (>= 1.17), preferenceloader
+Depends: firmware (>= 12.2), ws.hbang.common (>= 1.17), preferenceloader, com.opa334.altlist
 Filename: debs/emt.paisseon.satella_1.7.1_iphoneos-arm.deb
-Size: 112450
-MD5sum: c08ce4286e6645caf22a067ca6ea0c5e
-SHA1: 09e22f67aeed9efee96ef14d4e2ca782c420b3ad
-SHA256: 941049c85c9aacebcd20fe4500cbf1b0c8ebd996d41a74c4f56563b387884d5b
+Size: 112460
+MD5sum: 002c6ff25e5ee13aa1603d8bbe77691a
+SHA1: d9240382f3a0f17367594fefc459a73228176e9a
+SHA256: 6c37aa047e867c82284bb4ba3b4e74b3bf5b6993f4ba8e614b7b966069fe00a4
 Section: Tweaks (Piracy)
 Description: Modern in-app purchase cracker
 Author: Lilliana
