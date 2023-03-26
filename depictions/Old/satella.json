@@ -1,0 +1,324 @@
+{
+	"minVersion": "0.1",
+	"class": "DepictionTabView",
+	"tintColor": "#CBA0DD",
+	"headerImage": "https://paisseon.github.io/images/LiaDive.png",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"class": "DepictionStackView",
+			"tintColor": "#CBA0DD",
+			"views": [
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"title": "Description"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "I love you. Because you gave me light. Because you took my hand and you taught me about the world outside. Because when I trembled on lonely nights, you never stopped holding my hand. Because when I felt lonely, you kissed me and said that I wasn't alone. You gave me so many things. That's why I love you. Because you gave me everything.",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "Features"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>The official Swift successor to Satella</li>\n<li>Compatible with iOS 12-16 and all devices</li>\n<li>Fast and lightweight</li>\n<li>Receipt generator and custom observer to increase success rate</li>\n<li>Choose which apps to inject Satella into</li>\n<li>Purchases have persistence and can even be restored on a non-jailbroken device using app data backups in iMazing, 3uTools, or i4Tools</li>\n<li>Experimental support for in-app purchases in sideloaded apps</li>\n<li>Experimental stealth toggle to hide from piracy detection</li></ul>",
+					"useRawFormat": true
+				},
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Options"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul>\n<li><b>Enable</b> Disabling this prevents Satella from working, obviously</li>\n<li><b>Receipts</b> Create a false receipt and hijack Apple's default verification. Most effective on iOS 12-13, but occasionally works on iOS 14-16</li>\n<li><b>Observer</b> Prevent duplicate purchases taking the same memory (fixes some apps)</li>\n<li><b>Sideloaded Apps</b> Add compatibility for sideloaded apps that are not permasigned. Disable this if you are having trouble with App Store apps.</li>\n<li><b>Stealth</b> Attempt to hide Satella from common methods of piracy detection</li>\n<li>\n<li><b>0,00 Price</b> Change the price label to 0,01 (debug purposes)</li><b>Global Injection</b> Enable Satella in all user apps by default</li>\n<li><b>Enabled Apps</b> Enable Satella in specific apps of your choice. Overridden by Global Injection, if it is enabled.</li></ul>",
+                    "useRawFormat": true
+                },
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "Known Issues"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Not every app is compatible. That would be impossible. If it doesn't work with LocalIAPStore or Satella either, give up.</li>\n<li>Additionally, Satella is a <i>generic</i> IAP cracker, not a specific one. Please don't make a GitHub issue or ping me asking me to make it work with X app.</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "Information"
+				},
+				{
+					"class": "DepictionTableTextView",
+					"title": "Developer",
+					"text": "Paisseon"
+				},
+				{
+					"class": "DepictionTableTextView",
+					"title": "Version",
+					"text": "1.6"
+				},
+				{
+					"class": "DepictionTableTextView",
+					"title": "Price",
+					"text": "Free"
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 16
+				},
+				{
+					"class": "DepictionStackView",
+					"views": [
+						{
+							"class": "DepictionTableButtonView",
+							"title": "Source Code",
+							"action": "https://github.com/Paisseon/Satella2",
+							"openExternal": false
+						},
+						{
+							"class": "DepictionTableButtonView",
+							"title": "CyPwn's Discord",
+							"action": "https://discord.gg/VM2ZVWqxsj",
+							"openExternal": false
+						}
+					]
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 16
+				}
+			]
+		},
+		{
+			"tabname": "Changelog",
+			"class": "DepictionStackView",
+			"tintColor": "#CBA0DD",
+			"views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.6"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul><li>Updated Jinx version, which should fix a rare crash in the Stealth toggle</li>\n<li>Improved preference reading</li>\n<li>Changed the package ID-- old IDs now serve as transitional packages</li></ul>",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.5"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul><li>Partially reverted 1.4.2 to (hopefully) prevent rare crashes, it still is used in /verifyReceipt response spoofing but not in SKPaymentTransaction.transactionReceipt</li>\n<li>Cephei is now used exclusively in the preferences bundle for iOS 16 compatibility</li>\n<li>Replaced all ObjC with Swift and Assembly</li></ul>",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.4.2"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul><li>Receipt generator now runs locally and uses modern receipt format</li></ul>",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.4.1"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul><li>Fix preferences not showing on arm64e device</li></ul>",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.4"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul><li>Rewrite to use Jinx instead of Orion</li>\n<li>Add Stealth and 0,00 price toggles</li></ul>",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.3.1"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul><li>Fixed SatellaObserver causing problems in apps with multiple observers</li></ul>",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.3"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul><li>Remove RevenueCat (now in a separate tweak)</li><li>Improve receipt generation for iOS 14-15</li><li>Improve handling of preference values</li><li>General code improvements</li></ul>",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.2"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "<ul><li>Add experimental option for RevenueCat support. Not very reliable-- it currently has a 38% success rate (thanks to Pwn for testing 15 different apps!)</li></ul>",
+                    "useRawFormat": true
+                },
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "1.1.1"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul><li>Add Shuffle compatibility to prefs respringing</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "1.1"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul><li>Improve support for server-sided apps using a direct connection to verifyReceipt</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "1.0.2"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul><li>Fix crash caused by nil fields in generated receipts</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "1.0.1"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul><li>Fix casting bug that caused crashes in some sideloaded apps</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "1.0"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul><li>Add option to hack in-app purchases on sideloaded apps</li>\n<li>We're out of beta, we're releasing on time 🎵</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "0.5b"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul><li>Add piracy detection bypass for Apollo</li>\n<li>Improvements to receipt generation</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "0.4b"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul><li>Fix incorrect data type conversion in receipt generation</li>\n<li>Improvements to receipt generation</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "0.3.1b"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Fixed a bug causing global injection to fail</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "0.3b"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Support for restoring legitimate purchases</li>\n<li>Minor code improvements</li>\n<li>Prevent SatellaObserver and Preferences from initialising in non-user apps</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "0.2b"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Reduced tweak size by ~30%</li>\n<li>Added a prettier icon to the preference header</li></ul>",
+					"useRawFormat": true
+				},
+				{
+					"class": "DepictionSubheaderView",
+					"useBoldText": true,
+					"useBottomMargin": false,
+					"title": "0.1b"
+				},
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "<ul>\n<li>Initial beta release</li></ul>",
+					"useRawFormat": true
+				}
+			]
+		}
+	]
+}
