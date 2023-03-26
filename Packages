@@ -1,51 +1,51 @@
 Package: 0xcc.woodfairy.koi
 Version: 1.1.7-ok15
 Architecture: iphoneos-arm
-Maintainer: woodfairy & Litten & Paisseon
+Maintainer: Paisseon
 Installed-Size: 1456
 Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 15.0), dev.traurige.libkitten (>= 1.4)
 Filename: debs/0xcc.woodfairy.koi_1.1.7-ok15_iphoneos-arm.deb
-Size: 1042404
-MD5sum: 9aae6f840b6308612ff0ad9692b494b4
-SHA1: 84cbd6f0edcb68181c925fe3cf71348b2b51ded2
-SHA256: a9aa04c30c146842e93e04873d6dafd2ef4e885135e524354e92d24cf232d9de
+Size: 1041120
+MD5sum: 859c383cf209851e09625f9bf8676f77
+SHA1: 5a2495d1c0d405374139b47186406f5aa964472e
+SHA256: 855f6d51a44c4639fb6579d7f3544f2affc151d7210a26aad3e24814264550e4
 Section: iOS 15 Patches
 Description: Colourise the force touch menu background based on the app icon colour
 Author: woodfairy & Litten
 Depiction: https://repo.litten.love/depictions/Koi/index.html
-Icon: https://repo.litten.love/depictions/Koi/assets/icon.png
+Icon: https://paisseon.github.io/icons/Koi.png
 Name: Koi 🐠
 Sileodepiction: https://repo.litten.love/depictions/Koi/index.json
 
 Package: com.artikus.neonboard
 Version: 1.0.16-ok15
 Architecture: iphoneos-arm
-Maintainer: ArtikusHG & Lessica
-Installed-Size: 1824
-Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
-Conflicts: com.artikus.neonboard-lite, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.spark.snowboard, com.spark.snowboard.dock, com.spark.snowboard.fonts, com.spark.snowboard.effects, com.spark.snowboard.masks, com.spark.snowboard.labels, com.spark.snowboard.pagedots, com.spark.snowboard.proceduralwallpapers, com.spark.snowboard.respringextension, com.spark.snowboard.settingsicons, com.spark.snowboard.sounds, com.spark.snowboard.statusbar, com.spark.snowboard.ui
-Replaces: com.artikus.neonboard-lite, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.spark.snowboard, com.spark.snowboard.dock, com.spark.snowboard.fonts, com.spark.snowboard.effects, com.spark.snowboard.masks, com.spark.snowboard.labels, com.spark.snowboard.pagedots, com.spark.snowboard.proceduralwallpapers, com.spark.snowboard.respringextension, com.spark.snowboard.settingsicons, com.spark.snowboard.sounds, com.spark.snowboard.statusbar, com.spark.snowboard.ui
-Provides: com.artikus.neonboard-lite, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.spark.snowboard, com.spark.snowboard.dock, com.spark.snowboard.fonts, com.spark.snowboard.effects, com.spark.snowboard.masks, com.spark.snowboard.labels, com.spark.snowboard.pagedots, com.spark.snowboard.proceduralwallpapers, com.spark.snowboard.respringextension, com.spark.snowboard.settingsicons, com.spark.snowboard.sounds, com.spark.snowboard.statusbar, com.spark.snowboard.ui
+Maintainer: Lessica
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.artikus.neonboard-lite, com.spark.snowboard
+Replaces: com.artikus.neonboard-lite, com.spark.snowboard
+Provides: com.artikus.neonboard-lite, com.spark.snowboard
 Filename: debs/com.artikus.neonboard_1.0.16-ok15_iphoneos-arm.deb
-Size: 157102
-MD5sum: 23a8157a2483d8f343efce95d2cd8b12
-SHA1: 1b215912de16fa1c2afbc696ecb9f76fcfe1affe
-SHA256: 7a8f70b8bdc59afe52540027bad2971b180abee8c57d9f419bf6147e337be828
+Size: 157104
+MD5sum: dc9d943d7d821a4ef57550f45060da98
+SHA1: f5f096bc632feeda867e66fcead94f3221324410
+SHA256: a5a530a7a139d8e5a0c86a24ed39d6fb88df398205b22eb796f63b82d7e68193
 Section: iOS 15 Patches
-Description: A fully-featured lightweight theming engine for iOS 15 or above.
+Description: A fully-featured lightweight theming engine for iOS 15 or above
 Author: ArtikusHG
 Name: NeonBoard
 
 Package: com.rpetrich.rocketbootstrap
 Version: 1.0.10-ok15
 Architecture: iphoneos-arm
-Maintainer: BigBoss & Lessica
-Depends: firmware (>= 13.0), mobilesubstrate
+Maintainer: Lessica
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: xinaa15
 Filename: debs/com.rpetrich.rocketbootstrap_1.0.10-ok15_iphoneos-arm.deb
-Size: 22820
-MD5sum: 3ac43d2fde7686dbf3fc3b478798fe06
-SHA1: 7ce2f917f9700458382a81f598a29ffb824fef5f
-SHA256: 7c979f386efe2416eb93b494da6908ccae705ebc40a7620f415d75560186b265
+Size: 22812
+MD5sum: 24c4963eb5e07de26d38d26f028b495e
+SHA1: e1b6430752a6102a1ce719e2df872d14f2224271
+SHA256: 615e028b09b7d20b33315571627f63179eda6a8df1ca445f62cccab6fc5796d7
 Section: iOS 15 Patches
 Description: Support library allowing tweaks to communicate with sandboxed processes
 Tag: purpose::extension, role::developer
@@ -126,14 +126,32 @@ Sileodepiction: https://paisseon.github.io/depictions/Chocola.json
 
 Package: emt.paisseon.cowsay
 Version: 1.0.0
-Architecture: all
+Architecture: iphoneos-arm
 Maintainer: Paisseon
 Conflicts: cowsay
-Filename: debs/emt.paisseon.cowsay_1.0.0_all.deb
-Size: 10976
-MD5sum: 8d52a7f544d5ad6a15189490d3edc10a
-SHA1: 4e490468a07926673599013626d055c3148173e6
-SHA256: 74df3e7a3c036fb28b6d55311bfbcab302a3827dbec97ce32834b1d93bb0b880
+Filename: debs/emt.paisseon.cowsay_1.0.0_iphoneos-arm.deb
+Size: 10992
+MD5sum: 750349056eedf25c38ee8e80a1ef972f
+SHA1: 8e5cc7fcee972f5047fdede9ef429604fc967c81
+SHA256: 64d1545a6684c89eda2787ddb8f9aab38639f932d307e1f535b05e07b1d6106c
+Section: System
+Description: A Swift implementation of cowsay
+Tag: role::hacker
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/cowsay.json&name=Cowsay&dev=Paisseon
+Name: cowsay
+Sileodepiction: https://paisseon.github.io/depictions/cowsay.json
+
+Package: emt.paisseon.cowsay
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Conflicts: cowsay
+Filename: debs/emt.paisseon.cowsay_1.0.0_iphoneos-arm64.deb
+Size: 10996
+MD5sum: 1c53d0f3384ef649abedeeae136e2bc3
+SHA1: dbd2dfbbd01877778be5ba4e57b4081f06e7519a
+SHA256: 5fc2374863c06d441906d52b43d9a3fbc65fceb94ea7d9767b81b64b7be2f376
 Section: System
 Description: A Swift implementation of cowsay
 Tag: role::hacker
@@ -236,14 +254,32 @@ Sileodepiction: https://paisseon.github.io/depictions/picsart-crack.json
 
 Package: emt.paisseon.pseudo
 Version: 1.0.0
-Architecture: all
+Architecture: iphoneos-arm
 Maintainer: Paisseon
 Depends: bash | zsh | dash
-Filename: debs/emt.paisseon.pseudo_1.0.0_all.deb
-Size: 8776
-MD5sum: 151f5db18b7673c25244fd3edc73f2a6
-SHA1: 13f21ccfcc8d87cfe6b93a22d386b6e8c3e15752
-SHA256: 1833dee8f56161ce267bcd523272906b4d12fef5b37bf24dc7c40accc7205ace
+Filename: debs/emt.paisseon.pseudo_1.0.0_iphoneos-arm.deb
+Size: 8812
+MD5sum: 52c23450ea6b0ea1dbd014e679c2ae71
+SHA1: 3825325b40fd8817e7cc916e8a539a21582012b8
+SHA256: 7af3f9afdd42689993fb3e38078e4995250a06c85fd78af4e1b47eb1d3561a8e
+Section: System
+Description: Execute code as root without entering password
+Tag: role::hacker
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/pseudo.json&name=Pseudo&dev=Paisseon
+Name: pseudo
+Sileodepiction: https://paisseon.github.io/depictions/pseudo.json
+
+Package: emt.paisseon.pseudo
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Depends: bash | zsh | dash
+Filename: debs/emt.paisseon.pseudo_1.0.0_iphoneos-arm64.deb
+Size: 8812
+MD5sum: 084c7498d6fc06e9f92473cafe8bedde
+SHA1: dc8d542905cab14d74932bc3930354f9821392cb
+SHA256: 4bf402dca5a2d1698e5a0a1eb59549f56142ca5023f4e3cb22368a389e8bf6f2
 Section: System
 Description: Execute code as root without entering password
 Tag: role::hacker
@@ -306,6 +342,25 @@ Description: Modern in-app purchase cracker
 Author: Lilliana
 Depiction: Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Satella.json&name=Satella&dev=Lilliana
 Icon: https://paisseon.github.io/icons/satella.png
+Name: Satella
+Sileodepiction: https://paisseon.github.io/depictions/Satella.json
+
+Package: emt.paisseon.satella
+Version: 1.7.1
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 684
+Depends: firmware (>= 12.2), ws.hbang.common (>= 1.17), preferenceloader
+Filename: debs/emt.paisseon.satella_1.7.1_iphoneos-arm.deb
+Size: 112450
+MD5sum: c08ce4286e6645caf22a067ca6ea0c5e
+SHA1: 09e22f67aeed9efee96ef14d4e2ca782c420b3ad
+SHA256: 941049c85c9aacebcd20fe4500cbf1b0c8ebd996d41a74c4f56563b387884d5b
+Section: Tweaks (Piracy)
+Description: Modern in-app purchase cracker
+Author: Lilliana
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Satella.json&name=Satella&dev=Lilliana
+Icon: https://paisseon.github.io/icons/Satella.png
 Name: Satella
 Sileodepiction: https://paisseon.github.io/depictions/Satella.json
 
