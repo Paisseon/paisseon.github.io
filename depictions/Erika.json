@@ -17,7 +17,7 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Satella is a generic in-app purchase cracker for modern iOS. It brings a familiar experience for people who have used LocalIAPStore along with new features and open source code =)"
+                    "markdown": "Like CyDown, but for everything except Cydia. Erika can download paid tweaks for free in Installer 5, Saily, Sileo, and Zebra."
                 },
                 
                 {
@@ -29,19 +29,19 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Approximately equal app compatibility vis-a-vis LocalIAPStore. Better compatibility than any others. \n- Configurable features such as whitelisted injection, receipt generator, and a proxy observer (see Preferences) \n- First IAP cracker to work on sideloaded apps \n- It's open source!"
+                    "markdown": "- Identical tweak database to CyDown \n- Pretty UI with progress bar buttons \n- Supports all modern package managers \n- Open source"
                 },
                 
                 {
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,
                     "useBottomMargin": false,
-                    "title": "Preferences"
+                    "title": "Instructions"
                 },
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- **Enable** Self-explanatory. \n- **Observer** Creates a proxy observer to prevent bugs/crashes if two purchases share memory. \n- **Receipts** Generate a fake receipt with the purchase. This helps crack some apps, especially on iOS 12-13. \n- **Sideloaded Apps** Enables compatibility with sideloaded apps. Might break some other apps, so recommended to only enable if you need it. \n- **Stealth** Hide from some apps trying to detect Satella \n- **0,01 Price** Changes the price tag to 0,01 kr. Mostly used for debugging. \n- **Global Injection** Inject into every user app. \n- **Enabled Apps** Unless Global Injection is enabled, only the apps selected here will run Satella"
+                    "markdown": "1. In *Saily*, tap the Buy button then Erika. In *everything else*, tap the tweak's icon at the top of the depiction. \n2. Once the tweak has downloaded, tap on Get Zappy. \n3. If you don't have Filza with URL scheme, the deb files are found in /var/mobile/Media/Erika."
                 },
                 
                 {
@@ -53,7 +53,7 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Not all apps are supported due to the diverse DRM systems in various apps. If it doesn't work with LocalIAPStore either, give up \n- Rootless is currently *not supported*"
+                    "markdown": "- Does not work in Xina! I don't have Xina so if you can figure out why it's not working, hmu. \n- 'Tweak not found on the server' is not a bug, it just means CyDown server doesn't yet have the tweak."
                 },
                 
                 {
@@ -74,7 +74,7 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Version",
-                    "text": "1.7.2"
+                    "text": "1.11.0"
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -118,21 +118,121 @@
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,
                     "useBottomMargin": false,
-                    "title": "1.8"
+                    "title": "1.11.0"
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Rootless support \n- Binary size is ~40% smaller"
+                    "markdown": "- Update to development branch of Jinx"
                 },
                 {
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,
                     "useBottomMargin": false,
-                    "title": "1.7.2"
+                    "title": "1.10.3"
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Re-add Stealth toggle \n- Rootless is being tested"
+                    "markdown": "- Fix Get Zappy not showing due to a bug in the download state"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.10.2"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Fix Erika label not showing on non-English versions of Saily \n- Replace ObjC with Swift + Assembly"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.10.1"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Fix permissions error"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.10"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- iOS 15 compatibility \n- Massive speed improvements \n- Fix \"Don't Get Zappy\" not working on Saily \n- Minor UI changes \n- Switch from Orion to Jinx \n- Preferences are gone now"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.9.1"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Fix preferences on A12+"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.9.0"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Snappier UI. You'll notice it. \n- Fix bug where the view wouldn't dismiss properly in Saily"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.8.4"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Remove now-unnecessary postinst"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.8.3"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Improve activation gesture in Saily"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.8.2"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Fix UI not displaying on latest Saily \n- Change deb file location to /var/mobile/Media/Erika"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.8.1"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Fix a bug in the postinst which caused failed installations if not upgrading from a previous version"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.8.0"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Add Installer 5 and Zebra compatibility \n- Add progress indicator"
                 },
                 {
                     "class": "DepictionSubheaderView",
@@ -142,7 +242,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Update Jinx \n- Fix a bug where Satella is disabled by default even if the toggle says enabled"
+                    "markdown": "- Add Shuffle compatibility to preferences"
                 },
                 {
                     "class": "DepictionSubheaderView",
@@ -152,7 +252,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Revert preference reading change from 1.6.0 because it crashed some devices \n- Remove Stealth due to crashes on palera1n"
+                    "markdown": "- Modernise deprecated code \n- Slight performance boost maybe \n- More reliability improvements for Sileo"
                 },
                 {
                     "class": "DepictionSubheaderView",
@@ -162,7 +262,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Update Jinx, which should fix a rare crash in the Stealth toggle \n- Improved preference reading"
+                    "markdown": "- Reliability improvements in Sileo \n- Fix compatibility with Sileo 2.3 \n- Better code organisation"
                 },
                 {
                     "class": "DepictionSubheaderView",
@@ -172,27 +272,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Partially revert 1.4.2 to (hopefully) prevent rare crashes. Modern receipt format is still uses in verifyReceipt spoofing, but not in transactionReceipt. \n- Cephei is now used exclusively in the preference bundle for iOS 16 compatibility \n- Replace all ObjC with Swift and Assembly"
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "useBoldText": true,
-                    "useBottomMargin": false,
-                    "title": "1.4.2"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Receipt generator now runs locally and uses modern receipt format"
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "useBoldText": true,
-                    "useBottomMargin": false,
-                    "title": "1.4.1"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Fix preferences not showing on A12+ devices"
+                    "markdown": "- Add preferences"
                 },
                 {
                     "class": "DepictionSubheaderView",
@@ -202,17 +282,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Rewrite to use Jinx instead of Orion \n- Add Stealth and 0,00 Price toggles"
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "useBoldText": true,
-                    "useBottomMargin": false,
-                    "title": "1.3.1"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Fix Observer not working in apps with multiple observers"
+                    "markdown": "- Check for Erika folder before downloading \n- Fix weird corners in the UI"
                 },
                 {
                     "class": "DepictionSubheaderView",
@@ -222,7 +292,17 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Move RevenueCat functionality to RevenueCrack (separate tweak) \n- Improve receipt generation for iOS 14+ \n- Improve handling of preference values \n- General code improvement"
+                    "markdown": "- Only open Filza if the download was successful \n- Minor code improvements"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.2.1"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Fix the Copy Meta label in Saily \n- Fix bad gesture recognisers in Sileo \n- Fix a crash in Sileo"
                 },
                 {
                     "class": "DepictionSubheaderView",
@@ -232,17 +312,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Add tentative support for RevenueCat apps. 38% success rate (thanks to Pwn for testing!)"
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "useBoldText": true,
-                    "useBottomMargin": false,
-                    "title": "1.1.1"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Add Shuffle compatibility to preferences"
+                    "markdown": "- Change Sileo activation from tapping the Bundle ID at the bottom, to tapping to icon at the top"
                 },
                 {
                     "class": "DepictionSubheaderView",
@@ -252,27 +322,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Add support for server-sided apps which use a direct connection to verifyReceipt"
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "useBoldText": true,
-                    "useBottomMargin": false,
-                    "title": "1.0.2"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Fix crash caused by nil fields in generated receipts"
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "useBoldText": true,
-                    "useBottomMargin": false,
-                    "title": "1.0.1"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Fix incorrect casting bug which crashed some sideloaded apps"
+                    "markdown": "- Remove force unwraps (thanks to Lakr!) \n- Slight change to the UI"
                 },
                 {
                     "class": "DepictionSubheaderView",
@@ -282,18 +332,8 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Initial public release \n- Add support for sideloaded apps"
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "useBoldText": true,
-                    "useBottomMargin": false,
-                    "title": "0.0.6"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Add detection bypass for Apollo \n- Improvements to receipt generation"
-                },
+                    "markdown": "- Initial public release"
+                }
                 {
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,
@@ -302,7 +342,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Fix incorrect data type conversion in receipt generation \n- Improvements to receipt generation"
+                    "markdown": "- Change the Copy Meta label in Saily to Erika for clarity \n- Add error handling for r3"
                 },
                 {
                     "class": "DepictionSubheaderView",
@@ -312,7 +352,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Fix global injection not working"
+                    "markdown": "- Add preliminary Saily compatibility \n- Add more informative errors"
                 },
                 {
                     "class": "DepictionSubheaderView",
@@ -322,7 +362,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Minor code improvements \n- Prevent Observer and Preferences from initialising in system apps"
+                    "markdown": "- Rewrite in Swift + SwiftUI"
                 },
                 {
                     "class": "DepictionSubheaderView",
@@ -332,7 +372,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Reduce size-on-disk by 30%"
+                    "markdown": "- Fix a crash \n- Increase download speed by 6x"
                 },
                 {
                     "class": "DepictionSubheaderView",

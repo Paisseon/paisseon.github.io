@@ -3,16 +3,16 @@ Label: Paisseon's Repo
 Suite: stable
 Version: 1.0
 Codename: EMT
-Architectures: iphoneos-arm
+Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: My personal repo for jailbroken devices
+Description: My personal repo for jailbreak tweaks
 MD5Sum:
- b301d4f5b4f58de04777b189e91ccaf8 25806 Packages
- eeb1f53ef44aa87ffd4a2d9572ca11c2 6167 Packages.bz2
- 678098318dfef15da97e02c8937c433f 6549 Packages.gz
- dd5a793e08e4d4a4af890a3e124c67d8 6052 Packages.zst
+ 44c9ba31fc25dcab25077c02ea14c25b 23371 Packages
+ f59c7dfa715c420bffc8d4eeb99b8977 5704 Packages.bz2
+ 6b6822bb797bc50777c6627907d33a06 6027 Packages.gz
+ c0dc59a99db35315bdec8679a26b3995 5577 Packages.zst
 SHA256:
- de2c4134f42b835f02013f90d394b6a256dc93c279e3ecf32e238adf6be1c84f 25806 Packages
- 7d573d02b7179c1914ce3a7d7924a5cfe0fee2788988c8767486627dd992be80 6167 Packages.bz2
- 2190d3f137ec0ec02fa4af74b4c9820fea96ed800f4bcdde2d64356ac74fbc3f 6549 Packages.gz
- 4fd0578c1b1fee012bf60b226d71fd94c2fe8bc91b9afc4f64605fe983d13a7b 6052 Packages.zst
+ 04f3e98b0a1065e76eff9f88aba70d072d153773e9505290194992f18e3fd04e 23371 Packages
+ b798a62196c8701ea100f605f0ca85507584bd05a577503b8a8550393e8cab65 5704 Packages.bz2
+ fd4467391df330c08d633b64bda647423e7d14e7e96cc6a4fa03336a10954e1c 6027 Packages.gz
+ 1128147c31f9effd10c2bf023c8b43de7bbc8a32da22b0c3f8067cb95c01adef 5577 Packages.zst

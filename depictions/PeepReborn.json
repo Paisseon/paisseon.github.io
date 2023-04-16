@@ -17,7 +17,7 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "This tweak does somet"
+                    "markdown": "As featured on iDownloadBlog! Peep Reborn lets you hide the status bar with a tap-- a clean look with easily accessible information when you need it."
                 },
                 
                 {
@@ -29,7 +29,7 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- 100% recyclable materials"
+                    "markdown": "- Dead simple functionality \n- Compatible with other status bar tweaks, such as FLEXing \n- Open source"
                 },
                 
                 {
@@ -41,7 +41,7 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- **Enable** Self-explanatory"
+                    "markdown": "- **Enable** Self-explanatory \n- **Hide Permanently** Disable the status bar from the beginning without adding a tap gesture \n- **Number of Taps** How many times you need to tap the status bar to hide/show it. Not the number of fingers used."
                 },
                 
                 {
@@ -53,7 +53,7 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- May cause spontaneous combustion"
+                    "markdown": "- None afaik"
                 },
                 
                 {
@@ -74,7 +74,7 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Version",
-                    "text": "0.0.1"
+                    "text": "0.0.2"
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -99,6 +99,12 @@
                             "title": "CyPwn Discord",
                             "action": "https://discord.gg/cypwn",
                             "openExternal": true
+                        },
+                        {
+                            "class": "DepictionTableButtonView",
+                            "title", "iDownloadBlog Review",
+                            "action": "https://www.idownloadblog.com/2021/08/04/peep-reborn/",
+                            "openExternal": true
                         }
                     ]
                 },
@@ -114,6 +120,16 @@
             "class": "DepictionStackView",
             "tintColor": "#CBA0DD",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "0.0.2"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Add preferences"
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,
