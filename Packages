@@ -239,6 +239,42 @@ Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paiss
 Name: Picsart Crack
 Sileodepiction: https://paisseon.github.io/depictions/picsart-crack.json
 
+Package: emt.paisseon.pseudo
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Depends: bash | zsh | dash
+Filename: debs/emt.paisseon.pseudo_1.0.0_iphoneos-arm.deb
+Size: 8724
+MD5sum: dd35f6ba6530db8178de58994e446808
+SHA1: 902112235aefc4780c5e587cd7597509ce296af0
+SHA256: 0380cb72335bc37a1dd4eac2cb821c6d9b141d454a3519f517b0169c21a86759
+Section: System
+Description: Execute code as root without entering password
+Tag: role::hacker
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/pseudo.json&name=Pseudo&dev=Paisseon
+Name: pseudo
+Sileodepiction: https://paisseon.github.io/depictions/pseudo.json
+
+Package: emt.paisseon.pseudo
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Depends: bash | zsh | dash
+Filename: debs/emt.paisseon.pseudo_1.0.0_iphoneos-arm64.deb
+Size: 8780
+MD5sum: 77b50874db577d8f2114ce5c8c95bbb2
+SHA1: 8346dc0f0e6a2bf7a47bee81851eb0061690741f
+SHA256: 6092cbf77fadf7aabba7075c7ad612fd5c5ca94a822bd3d65a1f3bddff13dbca
+Section: System
+Description: Execute code as root without entering password
+Tag: role::hacker
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/pseudo.json&name=Pseudo&dev=Paisseon
+Name: pseudo
+Sileodepiction: https://paisseon.github.io/depictions/pseudo.json
+
 Package: emt.paisseon.revenuecrack
 Version: 1.1
 Architecture: iphoneos-arm
@@ -307,6 +343,44 @@ Size: 112460
 MD5sum: 002c6ff25e5ee13aa1603d8bbe77691a
 SHA1: d9240382f3a0f17367594fefc459a73228176e9a
 SHA256: 6c37aa047e867c82284bb4ba3b4e74b3bf5b6993f4ba8e614b7b966069fe00a4
+Section: Tweaks (Piracy)
+Description: Modern in-app purchase cracker
+Author: Lilliana
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Satella.json&name=Satella&dev=Lilliana
+Icon: https://paisseon.github.io/icons/Satella.png
+Name: Satella
+Sileodepiction: https://paisseon.github.io/depictions/Satella.json
+
+Package: emt.paisseon.satella
+Version: 1.8.0
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 520
+Depends: mobilesubstrate, firmware (>= 12.2), preferenceloader, com.opa334.altlist
+Filename: debs/emt.paisseon.satella_1.8.0_iphoneos-arm.deb
+Size: 86326
+MD5sum: f3e79286e66d526d230e08eac80d948e
+SHA1: d5713a7a12c4eb60ef18a4464126c7a641173105
+SHA256: d6a8cf7e166558e30a1b9fabf882d7130d058a5f555f84d0b6d2110c007bee2b
+Section: Tweaks (Piracy)
+Description: Modern in-app purchase cracker
+Author: Lilliana
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Satella.json&name=Satella&dev=Lilliana
+Icon: https://paisseon.github.io/icons/Satella.png
+Name: Satella
+Sileodepiction: https://paisseon.github.io/depictions/Satella.json
+
+Package: emt.paisseon.satella
+Version: 1.8.0
+Architecture: iphoneos-arm64
+Maintainer: Lilliana
+Installed-Size: 520
+Depends: mobilesubstrate, firmware (>= 12.2), preferenceloader, com.opa334.altlist
+Filename: debs/emt.paisseon.satella_1.8.0_iphoneos-arm64.deb
+Size: 86314
+MD5sum: 1e03f8be34a2ac30521b4a1bfd110628
+SHA1: 2b0a84eb5a06c287a868db26ac29b73c604c657a
+SHA256: b39c3e2867c7a17b84b57e0efd21e6903eb10183d4319765805192ed01023930
 Section: Tweaks (Piracy)
 Description: Modern in-app purchase cracker
 Author: Lilliana
