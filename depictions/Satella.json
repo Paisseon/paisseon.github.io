@@ -122,17 +122,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Rootless support \n- Binary size is ~40% smaller"
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "useBoldText": true,
-                    "useBottomMargin": false,
-                    "title": "1.7.2"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Re-add Stealth toggle \n- Rootless is being tested"
+                    "markdown": "- Rootless support \n- Binary size is ~40% smaller \n- Re-add Stealth toggle \n- New preferences! Credit to Soppra for the animated header"
                 },
                 {
                     "class": "DepictionSubheaderView",
