@@ -495,6 +495,44 @@ Depiction: Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=ht
 Name: Filza Crack
 Sileodepiction: https://paisseon.github.io/depictions/FilzaCrack.json
 
+Package: lilliana.filzacrack
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: Lilliana
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: debs/lilliana.filzacrack_0.0.5_iphoneos-arm64.deb
+Size: 22008
+MD5sum: eb85a3cc6842aa22690eddd32f107831
+SHA1: 1a1015edae905670d0d5907909bc428626d9774a
+SHA256: ecb15d16a1300adc1d00f351abe586372b406ab46e2ab3ca9387360b1f26a57a
+Section: Tweaks
+Description: An awesome Jinx tweak!
+Author: Lilliana
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/FilzaCrack.json&name=FilzaCrack&dev=Lilliana
+Icon: https://paisseon.github.io/icons/FilzaCrack.png
+Name: FilzaCrack
+Sileodepiction: https://paisseon.github.io/depictions/FilzaCrack.json
+
+Package: lilliana.filzacrack
+Version: 0.0.5
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: debs/lilliana.filzacrack_0.0.5_iphoneos-arm.deb
+Size: 21992
+MD5sum: dc73c4b158097250121aa1812f7c0cc4
+SHA1: b6482101b2532aa7b6ad3b2986797250ccfe67a8
+SHA256: cb54a437a711771712d3b0b939d8cd1e0b3e3bd974028cf50e1bfb64295ccabf
+Section: Tweaks
+Description: An awesome Jinx tweak!
+Author: Lilliana
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/FilzaCrack.json&name=FilzaCrack&dev=Lilliana
+Icon: https://paisseon.github.io/icons/FilzaCrack.png
+Name: FilzaCrack
+Sileodepiction: https://paisseon.github.io/depictions/FilzaCrack.json
+
 Package: lilliana.hecate
 Version: 0.0.1
 Architecture: iphoneos-arm
