@@ -460,6 +460,44 @@ Icon: https://paisseon.github.io/icons/vivy.png
 Name: Vivy
 Sileodepiction: https://paisseon.github.io/depictions/vivy.json
 
+Package: lilliana.apphider
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Lilliana
+Installed-Size: 380
+Depends: mobilesubstrate, firmware (>= 12.2), preferenceloader, com.opa334.altlist
+Filename: debs/lilliana.apphider_0.0.1_iphoneos-arm.deb
+Size: 64758
+MD5sum: 1ba6e37a65d057524cc1b28af4950b5d
+SHA1: e1e1f6a7f1311438123cf769cf1679cfa2c923a2
+SHA256: f2c3a87d47bf2442c6dc844071a1ddcf8c0d3bd380539cfb0380e83543186368
+Section: Tweaks
+Description: An awesome Jinx tweak!
+Author: Lilliana
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/AppHider.json&name=AppHider&dev=Lilliana
+Icon: https://paisseon.github.io/icons/AppHider.png
+Name: AppHider
+Sileodepiction: https://paisseon.github.io/depictions/AppHider.json
+
+Package: lilliana.apphider
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Lilliana
+Installed-Size: 424
+Depends: mobilesubstrate, firmware (>= 12.2), preferenceloader, com.opa334.altlist
+Filename: debs/lilliana.apphider_0.0.1_iphoneos-arm64.deb
+Size: 55442
+MD5sum: 49482f51fe250acff86db3698ab22801
+SHA1: 519d1f410299f65dcf7ae9620390510ca34b18ad
+SHA256: a52c50666e53ec661caf397c7e83f9d7030b1f4e540d247c3f272ea010477c96
+Section: Tweaks
+Description: An awesome Jinx tweak!
+Author: Lilliana
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/AppHider.json&name=AppHider&dev=Lilliana
+Icon: https://paisseon.github.io/icons/AppHider.png
+Name: AppHider
+Sileodepiction: https://paisseon.github.io/depictions/AppHider.json
+
 Package: lilliana.async
 Version: 0.0.1
 Architecture: iphoneos-arm
