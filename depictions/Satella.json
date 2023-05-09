@@ -29,7 +29,7 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Approximately equal app compatibility vis-à-vis LocalIAPStore. Better compatibility than any others. \n- Configurable features such as whitelisted injection, receipt generator, detection bypass, and a proxy observer (see Preferences) \n- First IAP cracker to work on sideloaded apps \n- It's open source!"
+                    "markdown": "- Approximately equal app compatibility vis-à-vis LocalIAPStore. Works better than any others. \n- Configurable features such as whitelisted injection, receipt generator, detection bypass, and a proxy observer (see Preferences) \n- First IAP cracker to work on sideloaded apps \n- It's open source!"
                 },
                 
                 {
@@ -53,7 +53,7 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Not all apps are supported due to the diverse DRM systems in various apps. If it doesn't work with LocalIAPStore either, give up \n- Dopamine is currently *not* supported. Rootless palera1n and bakera1n *are* supported."
+                    "markdown": "- Not all apps are supported due to the diverse DRM systems in various apps. If it doesn't work with LocalIAPStore either, look for an app-specific crack or give up. \n- Dopamine is currently *not* supported. Rootless palera1n and bakera1n *are* supported."
                 },
                 
                 {
@@ -118,11 +118,11 @@
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,
                     "useBottomMargin": false,
-                    "title": "1.8"
+                    "title": "1.8.0"
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Rootless support \n- Binary size is ~40% smaller \n- Re-add Stealth toggle \n- New preferences! Credit to Soppra for the animated header"
+                    "markdown": "- Rootless palera1n support \n- Binary size is ~40% smaller \n- Re-add Stealth toggle \n- New preferences! Thanks to Soppra for the animated header"
                 },
                 {
                     "class": "DepictionSubheaderView",
