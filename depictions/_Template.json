@@ -78,8 +78,8 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "title": "Price",
-                    "text": "Free"
+                    "title": "Compatibility",
+                    "text": "iOS 12.2 - 16.4"
                 },
                 {
                     "class": "DepictionSpacerView",
