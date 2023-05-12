@@ -613,13 +613,13 @@ Package: lilliana.filzacrack
 Version: 0.0.6
 Architecture: iphoneos-arm
 Maintainer: Lilliana
-Installed-Size: 140
+Installed-Size: 124
 Depends: mobilesubstrate, firmware (>= 12.2)
 Filename: debs/lilliana.filzacrack_0.0.6_iphoneos-arm.deb
-Size: 27176
-MD5sum: a59560f493aedb5da43fc7f733782484
-SHA1: 08d9e2c372352330011fd53ef1dbd37377387fb6
-SHA256: 04be838757a2e0d94aeac5f1f706ca1bae4775da084e1b02e4e3396f27f99446
+Size: 26184
+MD5sum: 158dd35219eb888d96474acd89784146
+SHA1: e4126ed68eee4de49b194cdb9b4f56f3443169f0
+SHA256: e2f7d1ec3713fa3aa1c9fa77d59b39a1b1c99ec3286031713d59cf0033abf109
 Section: Tweaks
 Description: An awesome Jinx tweak!
 Author: Lilliana
@@ -635,10 +635,10 @@ Maintainer: Lilliana
 Installed-Size: 140
 Depends: mobilesubstrate, firmware (>= 12.2)
 Filename: debs/lilliana.filzacrack_0.0.6_iphoneos-arm64.deb
-Size: 27170
-MD5sum: 121dfa7e3e40e3624923e180263bbe34
-SHA1: 922a3752f6f0ca7d9f0656945e551906977f8077
-SHA256: 9b31719857da2b6b9d7761f92f4a901fc5b21832fbea1e980398db7de5c61c0d
+Size: 22286
+MD5sum: a8538bcd637b464b34cad61ccad76d7e
+SHA1: a11a81340c886ee24b6d6653b8155610e4cd3837
+SHA256: 310cb450e7e585f03749a100e8261f885692df27aaf5ebf93fbecb373eaf81b7
 Section: Tweaks
 Description: An awesome Jinx tweak!
 Author: Lilliana
