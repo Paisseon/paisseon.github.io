@@ -822,3 +822,22 @@ Description: Make Tako work on iOS 15 and 16
 Author: Lilliana
 Name: Tako Fix
 
+Package: xyz.cypwn.xinamine
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Sudo and Paisseon
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<= 15.5)
+Filename: debs/xyz.cypwn.xinamine_0.0.1_iphoneos-arm64.deb
+Size: 21762
+MD5sum: feef1c7161ec3a48114243e514bbdfac
+SHA1: 216b48d5e46d17ab5bd1e203973875524e4392bd
+SHA256: 5b7ee28b50a2bb7d1339cc3b2551bab7f0438be80a303583b740e1ef0788d1ac
+Section: Tweaks
+Description: Add Xina tweak compatibility to Dopamine
+Author: Sudo and Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=CyPwn
+Icon: https://paisseon.github.io/icons/Xinamine.png
+Name: Xinamine
+Sileodepiction: https://paisseon.github.io/depictions/Xinamine.json
+
