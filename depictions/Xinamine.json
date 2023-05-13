@@ -17,7 +17,7 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Adds symlinks which fix Xina-compatible tweaks for Dopamine and rootless palera1n."
+                    "markdown": "Adds symlinks which fix Xina tweaks (i.e., tweaks repackaged on Xina) for Dopamine and rootless palera1n. This fixes some nonderootifiable tweaks such as Cephei =)"
                 },
                 
                 {
