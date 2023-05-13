@@ -1,0 +1,118 @@
+{
+    "minVersion": "0.1",
+    "class": "DepictionTabView",
+    "tintColor": "#CBA0DD",
+    "headerImage": "https://paisseon.github.io/images/LiaDive.png",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "title": "Description"
+                },
+                
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Adds symlinks which fix Xina-compatible tweaks for Dopamine and rootless palera1n."
+                },
+                
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Features"
+                },
+                
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Runs automatically when you respring \n- Very lightweight \n- Open source"
+                },
+                
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Known Issues"
+                },
+                
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Irks opa334"
+                },
+                
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Information"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Developers",
+                    "text": "Sudo + Paisseon"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Version",
+                    "text": "0.0.1"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Compatibility",
+                    "text": "iOS 15.0 - 15.7.5"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionStackView",
+                    "views": [
+                        {
+                            "class": "DepictionTableButtonView",
+                            "title": "Source Code",
+                            "action": "https://github.com/Paisseon/Xinamine",
+                            "openExternal": true
+                        },
+                        {
+                            "class": "DepictionTableButtonView",
+                            "title": "CyPwn Discord",
+                            "action": "https://discord.gg/cypwn",
+                            "openExternal": true
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                }
+            ]
+        },
+        
+        {
+            "tabname": "Change Log",
+            "class": "DepictionStackView",
+            "tintColor": "#CBA0DD",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "0.0.1"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Initial release"
+                }
+            ]
+        }
+    ]
+}

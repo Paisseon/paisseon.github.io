@@ -1,0 +1,140 @@
+{
+    "minVersion": "0.1",
+    "class": "DepictionTabView",
+    "tintColor": "#CBA0DD",
+    "headerImage": "https://paisseon.github.io/images/LiaDive.png",
+    "tabs": [
+        {
+            "tabname": "Details",
+            "class": "DepictionStackView",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "title": "Description"
+                },
+                
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Puts your device in a hibernation mode to conserve battery when it runs low"
+                },
+                
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Features"
+                },
+                
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Trigger it automatically or manually \n- Activates hidden system functions, like deep sleep and CPU throttling \n- Open source"
+                },
+                
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Preferences"
+                },
+                
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- **Enable** Self-explanatory \n- **Fast Charge** Allow hibernation whilst on AC power \n- **Sleep Level** Automatically sleep when battery reaches this percent \n- **Wake Level** Automatically wake when battery reaches this percent"
+                },
+                
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Known Issues"
+                },
+                
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Maybe something with the sleep being triggered if battery rises to the sleep level from a lower one? I think I fixed this tho"
+                },
+                
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Information"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Developer",
+                    "text": "Paisseon"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Version",
+                    "text": "0.0.2"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "title": "Compatibility",
+                    "text": "iOS 12.2 - 16.4"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionStackView",
+                    "views": [
+                        {
+                            "class": "DepictionTableButtonView",
+                            "title": "Source Code",
+                            "action": "https://github.com/Paisseon/Reverie",
+                            "openExternal": true
+                        },
+                        {
+                            "class": "DepictionTableButtonView",
+                            "title": "CyPwn Discord",
+                            "action": "https://discord.gg/cypwn",
+                            "openExternal": true
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                }
+            ]
+        },
+        
+        {
+            "tabname": "Change Log",
+            "class": "DepictionStackView",
+            "tintColor": "#CBA0DD",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "0.0.2"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Full rewrite \n- Now includes CPU throttling (compatible with Powercuff-- this works on lower level)"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "0.0.1"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Initial release"
+                }
+            ]
+        }
+    ]
+}

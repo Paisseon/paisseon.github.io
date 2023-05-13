@@ -498,6 +498,25 @@ Icon: https://paisseon.github.io/icons/vivy.png
 Name: Vivy
 Sileodepiction: https://paisseon.github.io/depictions/vivy.json
 
+Package: emt.paisseon.xinamine
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Sudo + Paisseon
+Installed-Size: 244
+Depends: ellekit, oldabi | cy+cpu.arm64, firmware (>= 15.0)
+Filename: debs/emt.paisseon.xinamine_0.0.1_iphoneos-arm64.deb
+Size: 11056
+MD5sum: 60cf93eab4c0ff173ce7a2d9798bb453
+SHA1: f7fd47e1939d7d185583a2ad124d6949aa9347db
+SHA256: 4dda942157db72dc3032566f3d24c8c78ee780d3d53bb2a3a054a550192f22df
+Section: System
+Description: Add Xina tweak compatibility to Dopamine
+Author: Sudo + Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Xinamine.png
+Name: Xinamine
+Sileodepiction: https://paisseon.github.io/depictions/Xinamine.json
+
 Package: lilliana.apphider
 Version: 0.0.1
 Architecture: iphoneos-arm
