@@ -666,24 +666,6 @@ Icon: https://paisseon.github.io/icons/FilzaCrack.png
 Name: FilzaCrack
 Sileodepiction: https://paisseon.github.io/depictions/FilzaCrack.json
 
-Package: lilliana.hecate
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: Lilliana
-Installed-Size: 232
-Depends: firmware (>= 12.2)
-Filename: debs/lilliana.hecate_0.0.1_iphoneos-arm.deb
-Size: 30070
-MD5sum: 28b4b8122ae8576e90f5cf5ce374edd1
-SHA1: 08f450f9508e61d14e5d734b65e35b6a0d4f02c9
-SHA256: 767d468940ce82f17902add812ebb2a9133a6a4fff0c4aa5be2e8f1cce34faa5
-Section: Tweaks
-Description: A tweak which is shaped like itself and is as broad as it hath breadth
-Author: Lilliana
-Depiction: Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Hecate.json&name=Hecate&dev=Lilliana
-Name: Hecate
-Sileodepiction: https://paisseon.github.io/depictions/Hecate.json
-
 Package: lilliana.ishtar
 Version: 0.0.4
 Architecture: iphoneos-arm
@@ -739,22 +721,6 @@ Icon: https://paisseon.github.io/PeepReborn.png
 Name: PeepReborn
 Sileodepiction: https://paisseon.github.io/depictions/PeepReborn.json
 
-Package: lilliana.qxcrack
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: Lilliana
-Installed-Size: 124
-Depends: firmware (>= 12.2)
-Filename: debs/lilliana.qxcrack_0.0.1_iphoneos-arm.deb
-Size: 22192
-MD5sum: 878141f51d677f53a5d53d25d1deeef5
-SHA1: af04592820c24860f80e889f8e5cfcc1fc3f2fa8
-SHA256: 3ad4111f695ab6a0ec7ac1a6ee077ec92d8668e03170d1e03f4d86798aff3783
-Section: Cracks
-Description: QuantumultX for free
-Author: Lilliana
-Name: QxCrack
-
 Package: lilliana.reverie
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -791,21 +757,43 @@ Depiction: Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=ht
 Name: Reverie
 Sileodepiction: https://paisseon.github.io/depictions/Reverie.json
 
-Package: lilliana.reveriecc
-Version: 0.0.1
+Package: lilliana.reverie
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 748
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
+Filename: debs/lilliana.reverie_0.0.3_iphoneos-arm64.deb
+Size: 81440
+MD5sum: df9a188dba5dd8db131ebe265b173746
+SHA1: c614e1e45c0c4b8c7cb770663b7ac62f7dde769a
+SHA256: 741f31647ab520f722c7be5f10ab573cd192a96ccffe82f67e24ae464326fae9
+Section: Tweaks
+Description: Let your iPhone dream
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Reverie.json&name=Reverie&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Reverie.png
+Name: Reverie
+Sileodepiction: https://paisseon.github.io/depictions/Reverie.json
+
+Package: lilliana.reverie
+Version: 0.0.3
 Architecture: iphoneos-arm
-Maintainer: Lilliana
-Installed-Size: 184
-Depends: firmware (>= 13.0), lilliana.reverie
-Filename: debs/lilliana.reveriecc_0.0.1_iphoneos-arm.deb
-Size: 12702
-MD5sum: eedc62b4c2b27caa596c5655739eca91
-SHA1: 61a667fcd8a0ac588ba0fe0ecc0fd2e8d09402eb
-SHA256: f492140d5127866046744b807c4457bf299465047633717fdce4367722f71f16
-Section: Control Centre
-Description: Activate Reverie hibernation from control centre
-Author: Lilliana
-Name: Reverie CC Module
+Maintainer: Paisseon
+Installed-Size: 768
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
+Filename: debs/lilliana.reverie_0.0.3_iphoneos-arm.deb
+Size: 90284
+MD5sum: 4fc22822b9882773760fbd44ca666523
+SHA1: 4864265729ade05f0c4e40fbd99e49ac26272976
+SHA256: f579f1147c33b2eec4747776888f5ccf1c9dcc36d6e5bcc4144beab989e2ff6c
+Section: Tweaks
+Description: Let your iPhone dream
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Reverie.json&name=Reverie&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Reverie.png
+Name: Reverie
+Sileodepiction: https://paisseon.github.io/depictions/Reverie.json
 
 Package: lilliana.strongboxcrack
 Version: 0.0.2

@@ -17,7 +17,7 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Adds symlinks which fix Xina tweaks (i.e., tweaks repackaged on Xina) for Dopamine and rootless palera1n. This fixes some nonderootifiable tweaks such as Cephei =)"
+                    "markdown": "Adds symlinks which fix Xina tweaks (i.e., tweaks repackaged on Xina) for Dopamine and rootless palera1n. This fixes some nonderootifiable tweaks"
                 },
                 
                 {
@@ -41,7 +41,7 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Irks opa334"
+                    "markdown": "- Irks opa334 \n- Apparently Cephei breaks a lot of stuff if you aren't careful, don't use it!"
                 },
                 
                 {

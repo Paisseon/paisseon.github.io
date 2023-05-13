@@ -4,21 +4,27 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://paisseon.github.io/icons/satella.png",
+        "url": "https://paisseon.github.io/icons/Satella.png",
         "title": "Satella",
         "package": "emt.paisseon.satella",
         "hideShadow": false
     },
 	{
-		"url": "https://paisseon.github.io/icons/erika.png",
-		"title": "Erika",
-		"package": "emt.paisseon.erika",
+		"url": "https://paisseon.github.io/icons/Reverie.png",
+		"title": "Reverie",
+		"package": "lilliana.reverie",
 		"hideShadow": false
 	},
     {
-        "url": "https://paisseon.github.io/icons/vivy.png",
-        "title": "Vivy",
-        "package": "emt.paisseon.vivy",
+        "url": "https://paisseon.github.io/icons/Erika.png",
+        "title": "Erika",
+        "package": "emt.paisseon.erika",
+        "hideShadow": false
+    },
+    {
+        "url": "https://paisseon.github.io/icons/Ishtar.png",
+        "title": "Ishtar",
+        "package": "lilliana.ishtar",
         "hideShadow": false
     }
   ]
