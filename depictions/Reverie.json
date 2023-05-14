@@ -17,7 +17,7 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Puts your device in a hibernation mode to conserve battery when it runs low"
+                    "markdown": "Puts your device in a hibernation mode to conserve battery when it runs low. **Upvolume thrice to exit sleeping mode***"
                 },
                 
                 {
