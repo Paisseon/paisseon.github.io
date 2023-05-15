@@ -166,6 +166,44 @@ Icon: https://paisseon.github.io/Erika.png
 Name: Erika
 Sileodepiction: https://paisseon.github.io/depictions/Erika.json
 
+Package: emt.paisseon.erika
+Version: 1.12.0
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 260
+Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
+Filename: debs/emt.paisseon.erika_1.12.0_iphoneos-arm.deb
+Size: 58662
+MD5sum: 446e54f96bef7a2e4145d88a7313442f
+SHA1: a524c346b68cb307bca1d272c26f2b3b0e10c797
+SHA256: 49211d0d74c75accd2b0df4c86e5f5b5d671985d1d4335a00a668c7de1e62dcd
+Section: Tweaks (Piracy)
+Description: Piracy downloader for Sileo
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+
+Package: emt.paisseon.erika
+Version: 1.12.0
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 236
+Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
+Filename: debs/emt.paisseon.erika_1.12.0_iphoneos-arm64.deb
+Size: 49680
+MD5sum: 7f1b48db96fac3475489bb2cab82ca5f
+SHA1: fbadb8cf3d81fd9a76805b6d101c2fbc97cad2b8
+SHA256: 7aa532c8954a68f38773da2347d59b414add8be505b8e0708c41131625ce164e
+Section: Tweaks (Piracy)
+Description: Piracy downloader for Sileo
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+
 Package: emt.paisseon.icleaner
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -520,39 +558,39 @@ Sileodepiction: https://paisseon.github.io/depictions/Xinamine.json
 Package: lilliana.apphider
 Version: 0.0.1
 Architecture: iphoneos-arm
-Maintainer: Lilliana
-Installed-Size: 380
+Maintainer: Paisseon
+Installed-Size: 376
 Depends: mobilesubstrate, firmware (>= 12.2), preferenceloader, com.opa334.altlist
 Filename: debs/lilliana.apphider_0.0.1_iphoneos-arm.deb
-Size: 64758
-MD5sum: 1ba6e37a65d057524cc1b28af4950b5d
-SHA1: e1e1f6a7f1311438123cf769cf1679cfa2c923a2
-SHA256: f2c3a87d47bf2442c6dc844071a1ddcf8c0d3bd380539cfb0380e83543186368
+Size: 63078
+MD5sum: 8f5563552cc2dcec04337056bb51478c
+SHA1: 5bf9d144571459c13f6304c1c95108f7335054bf
+SHA256: 093d2fed6b8d64287818572124a969565fab38179498e7943b90b69d1061ce73
 Section: Tweaks
-Description: An awesome Jinx tweak!
-Author: Lilliana
+Description: Perfectly hide apps from your device
+Author: Paisseon
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/AppHider.json&name=AppHider&dev=Lilliana
 Icon: https://paisseon.github.io/icons/AppHider.png
-Name: AppHider
+Name: App Hider
 Sileodepiction: https://paisseon.github.io/depictions/AppHider.json
 
 Package: lilliana.apphider
 Version: 0.0.1
 Architecture: iphoneos-arm64
-Maintainer: Lilliana
-Installed-Size: 424
+Maintainer: Paisseon
+Installed-Size: 376
 Depends: mobilesubstrate, firmware (>= 12.2), preferenceloader, com.opa334.altlist
 Filename: debs/lilliana.apphider_0.0.1_iphoneos-arm64.deb
-Size: 55442
-MD5sum: 49482f51fe250acff86db3698ab22801
-SHA1: 519d1f410299f65dcf7ae9620390510ca34b18ad
-SHA256: a52c50666e53ec661caf397c7e83f9d7030b1f4e540d247c3f272ea010477c96
+Size: 63110
+MD5sum: f8eee5df5c6a76ff9c973e795da76b10
+SHA1: 9b3b0ec58a1efad5364579848f2a5096e6936f1c
+SHA256: 7f9f1cbfe29f234f5bb97b66a9266c13bc8af4375d9c187f31693f26b3ad8a9d
 Section: Tweaks
-Description: An awesome Jinx tweak!
-Author: Lilliana
+Description: Perfectly hide apps from your device
+Author: Paisseon
 Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/AppHider.json&name=AppHider&dev=Lilliana
 Icon: https://paisseon.github.io/icons/AppHider.png
-Name: AppHider
+Name: App Hider
 Sileodepiction: https://paisseon.github.io/depictions/AppHider.json
 
 Package: lilliana.async
@@ -721,6 +759,44 @@ Icon: https://paisseon.github.io/PeepReborn.png
 Name: PeepReborn
 Sileodepiction: https://paisseon.github.io/depictions/PeepReborn.json
 
+Package: lilliana.peepreborn
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 608
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Filename: debs/lilliana.peepreborn_0.0.3_iphoneos-arm.deb
+Size: 80668
+MD5sum: e8fe6371f6716f986ea61c2daa836885
+SHA1: 68e704fc2ddf06e20f0dbced884be4ca91e914ec
+SHA256: a5473c303c75e804a6d39b0a661a289c70a2fce2fdb903109214f396848bc8d6
+Section: Tweaks
+Description: Hide your status bar with a tap
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/PeepReborn.json&name=PeepReborn&dev=Paisseon
+Icon: https://paisseon.github.io/icons/PeepReborn.png
+Name: Peep Reborn
+Sileodepiction: https://paisseon.github.io/depictions/PeepReborn.json
+
+Package: lilliana.peepreborn
+Version: 0.0.3
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 560
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Filename: debs/lilliana.peepreborn_0.0.3_iphoneos-arm64.deb
+Size: 73682
+MD5sum: 31465093cfb5d0f54996a7b144cf2055
+SHA1: 432deea78568bf4090962c9f57a94a4ee6dc9d28
+SHA256: a5755b40c47b70eacf90881a50b775fe377046b318de64772263f4557fa73dfe
+Section: Tweaks
+Description: Hide your status bar with a tap
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/PeepReborn.json&name=PeepReborn&dev=Paisseon
+Icon: https://paisseon.github.io/icons/PeepReborn.png
+Name: Peep Reborn
+Sileodepiction: https://paisseon.github.io/depictions/PeepReborn.json
+
 Package: lilliana.reverie
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -761,13 +837,13 @@ Package: lilliana.reverie
 Version: 0.0.3
 Architecture: iphoneos-arm64
 Maintainer: Paisseon
-Installed-Size: 748
+Installed-Size: 788
 Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
 Filename: debs/lilliana.reverie_0.0.3_iphoneos-arm64.deb
-Size: 81440
-MD5sum: df9a188dba5dd8db131ebe265b173746
-SHA1: c614e1e45c0c4b8c7cb770663b7ac62f7dde769a
-SHA256: 741f31647ab520f722c7be5f10ab573cd192a96ccffe82f67e24ae464326fae9
+Size: 94754
+MD5sum: 98ec1dc0a72a6efc5c763ffeb3ea0824
+SHA1: 9447b23a68eed5a62487a1cd3d578ddb3af9ffa5
+SHA256: 4719d1228ed47c179b49c2452f0d71840c00dad6ae8865e6d4e25739e8cc5f86
 Section: Tweaks
 Description: Let your iPhone dream
 Author: Paisseon
@@ -780,13 +856,13 @@ Package: lilliana.reverie
 Version: 0.0.3
 Architecture: iphoneos-arm
 Maintainer: Paisseon
-Installed-Size: 768
+Installed-Size: 788
 Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
 Filename: debs/lilliana.reverie_0.0.3_iphoneos-arm.deb
-Size: 90284
-MD5sum: 4fc22822b9882773760fbd44ca666523
-SHA1: 4864265729ade05f0c4e40fbd99e49ac26272976
-SHA256: f579f1147c33b2eec4747776888f5ccf1c9dcc36d6e5bcc4144beab989e2ff6c
+Size: 94716
+MD5sum: 54d66761af838afdbcf8fdff0ffdd31c
+SHA1: d5a58f61c4e21d4bcee52300ad1a1134624ea339
+SHA256: f37fd572ee06514a285315a5575e275089582c6301b0e3267f13cea2b11f3c01
 Section: Tweaks
 Description: Let your iPhone dream
 Author: Paisseon
