@@ -102,7 +102,7 @@
                         },
                         {
                             "class": "DepictionTableButtonView",
-                            "title", "iDownloadBlog Review",
+                            "title": "iDownloadBlog Review",
                             "action": "https://www.idownloadblog.com/2021/08/04/peep-reborn/",
                             "openExternal": true
                         }
