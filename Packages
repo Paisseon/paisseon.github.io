@@ -255,9 +255,9 @@ SHA256: 9a084fac08390922987894dc07419798f7b380ce9f40a9b469420408163b9e64
 Section: Tweaks
 Description: A safe ad-blocker for iOS
 Author: Paisseon
-Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/paibloxx.json&name=PaiBloxx&dev=Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Old/paibloxx.json&name=PaiBloxx&dev=Paisseon
 Name: PaiBloxx
-Sileodepiction: https://paisseon.github.io/depictions/paibloxx.json
+Sileodepiction: https://paisseon.github.io/depictions/Old/paibloxx.json
 
 Package: emt.paisseon.picsart
 Version: 1.0
@@ -291,9 +291,9 @@ Section: System
 Description: Execute code as root without entering password
 Tag: role::hacker
 Author: Paisseon
-Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/pseudo.json&name=Pseudo&dev=Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Old/pseudo.json&name=Pseudo&dev=Paisseon
 Name: pseudo
-Sileodepiction: https://paisseon.github.io/depictions/pseudo.json
+Sileodepiction: https://paisseon.github.io/depictions/Old/pseudo.json
 
 Package: emt.paisseon.pseudo
 Version: 1.0.0
@@ -531,10 +531,10 @@ Section: Tweaks
 Priority: optional
 Description: Free and modern battery theming
 Author: Paisseon
-Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/vivy.json&name=Vivy&dev=Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Old/vivy.json&name=Vivy&dev=Paisseon
 Icon: https://paisseon.github.io/icons/vivy.png
 Name: Vivy
-Sileodepiction: https://paisseon.github.io/depictions/vivy.json
+Sileodepiction: https://paisseon.github.io/depictions/Old/vivy.json
 
 Package: emt.paisseon.xinamine
 Version: 0.0.1
