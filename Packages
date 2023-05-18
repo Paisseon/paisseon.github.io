@@ -204,6 +204,44 @@ Icon: https://paisseon.github.io/icons/Erika.png
 Name: Erika
 Sileodepiction: https://paisseon.github.io/depictions/Erika.json
 
+Package: emt.paisseon.erika
+Version: 1.12.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 260
+Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
+Filename: debs/emt.paisseon.erika_1.12.1_iphoneos-arm.deb
+Size: 58748
+MD5sum: 35d8b6aabaf59e6a111793e700761bb5
+SHA1: b3f71a67497378086a84b2ce8b668294dde2fcfe
+SHA256: 910fdaf2bc482bc505d426329db5f89e04d1988beb664b1d8394323a6102a55f
+Section: Tweaks (Piracy)
+Description: Piracy downloader for Sileo
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+
+Package: emt.paisseon.erika
+Version: 1.12.1
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 236
+Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
+Filename: debs/emt.paisseon.erika_1.12.1_iphoneos-arm64.deb
+Size: 49904
+MD5sum: 5383f2d994e79272fa79c354caec3ca1
+SHA1: e010d04fc44a4a2c9bae9c5d695493d61d697028
+SHA256: 588e7a0131fb6154ffa5db65bc8e90a335df13607b1fb02bf7e56bc6dbe88712
+Section: Tweaks (Piracy)
+Description: Piracy downloader for Sileo
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+
 Package: emt.paisseon.icleaner
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -465,56 +503,6 @@ Icon: https://paisseon.github.io/icons/Satella.png
 Name: Satella
 Sileodepiction: https://paisseon.github.io/depictions/Satella.json
 
-Package: emt.paisseon.ultimateguitar
-Version: 1.1
-Architecture: iphoneos-arm
-Maintainer: Paisseon
-Installed-Size: 72
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/emt.paisseon.ultimateguitar_1.1_iphoneos-arm.deb
-Size: 3586
-MD5sum: 6b5fff09016692766d1aaf77439468a7
-SHA1: b6401f297373c598d543ae800b1881dbaa680c28
-SHA256: f5c77f7b22d7865b8f17a620ec65d65b59a4b85dce08985b3a928bf06325c0ef
-Section: Cracks
-Description: Ultimate Guitar Pro + Courses for free
-Author: Paisseon
-Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/tabs-crack.json&name=Ultimate-Guitar-Crack&dev=Paisseon
-Name: Ultimate Guitar Crack
-Sileodepiction: https://paisseon.github.io/depictions/tabs-crack.json
-
-Package: emt.paisseon.ulysses
-Version: 1.3.1
-Architecture: iphoneos-arm
-Maintainer: Lilliana
-Installed-Size: 196
-Depends: firmware (>= 12.2)
-Filename: debs/emt.paisseon.ulysses_1.3.1_iphoneos-arm.deb
-Size: 26224
-MD5sum: 9f3cd0ea1e3c226c3c7aa656501b08d1
-SHA1: 3a7985770bfdd6d2d4008f99b68b3bf39caf2823
-SHA256: fc3fc2cff04bedc93574ca1415d35d3473c07df6247be9cc69ec13d235cfeb07
-Section: Cracks
-Description: Ulysses subscription for free
-Author: Lilliana
-Name: UlyssesCrack
-
-Package: emt.paisseon.ulysses
-Version: 1.3.2
-Architecture: iphoneos-arm
-Maintainer: Lilliana
-Installed-Size: 120
-Depends: firmware (>= 12.2)
-Filename: debs/emt.paisseon.ulysses_1.3.2_iphoneos-arm.deb
-Size: 24244
-MD5sum: 94d8593989adb20599cd787b2179b811
-SHA1: 33ca30eba3ee947bb853e61c091620c0769c569c
-SHA256: c07e3522f2d4a91af50c034239292cff34bc27a408a45c260151589409e6a1a8
-Section: Cracks
-Description: Ulysses subscription for free
-Author: Lilliana
-Name: UlyssesCrack
-
 Package: emt.paisseon.vivy
 Version: 0.1b
 Architecture: iphoneos-arm
@@ -547,6 +535,25 @@ Size: 11056
 MD5sum: 60cf93eab4c0ff173ce7a2d9798bb453
 SHA1: f7fd47e1939d7d185583a2ad124d6949aa9347db
 SHA256: 4dda942157db72dc3032566f3d24c8c78ee780d3d53bb2a3a054a550192f22df
+Section: System
+Description: Add Xina tweak compatibility to Dopamine
+Author: Sudo + Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Xinamine.png
+Name: Xinamine
+Sileodepiction: https://paisseon.github.io/depictions/Xinamine.json
+
+Package: emt.paisseon.xinamine
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: Sudo + Paisseon
+Installed-Size: 244
+Depends: ellekit, oldabi | cy+cpu.arm64, firmware (>= 15.0)
+Filename: debs/emt.paisseon.xinamine_0.0.2_iphoneos-arm64.deb
+Size: 11054
+MD5sum: 5250f991c7ebf1417537291222d6b692
+SHA1: e6b9315abc81117469eb614aa4fcf85f3bcda9ba
+SHA256: ff9f81b13ee8e4282a702fdb6fe77e2fce3aadc4ce94ecfb5ff465a11ae050a1
 Section: System
 Description: Add Xina tweak compatibility to Dopamine
 Author: Sudo + Paisseon
@@ -740,6 +747,44 @@ Depiction: Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=ht
 Name: Ishtar
 Sileodepiction: https://paisseon.github.io/depictions/Ishtar.json
 
+Package: lilliana.ishtar
+Version: 0.0.7
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 444
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: debs/lilliana.ishtar_0.0.7_iphoneos-arm.deb
+Size: 81488
+MD5sum: 04d04d080bef75c2abb275fed08edce9
+SHA1: e9a3592b19890aee7f0222d3ae47adb647c7702a
+SHA256: 73f0026e122afb8c7bc521c82451e6a6d35bce560cd8caa6b7598910300af014
+Section: Tweaks (Piracy)
+Description: iOSGods VIP cheats for free
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Ishtar.json&name=Ishtar&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Ishtar.png
+Name: Ishtar
+Sileodepiction: https://paisseon.github.io/depictions/Ishtar.json
+
+Package: lilliana.ishtar
+Version: 0.0.7
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 456
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: debs/lilliana.ishtar_0.0.7_iphoneos-arm64.deb
+Size: 73950
+MD5sum: 81f5a935ba912b93e3c271cb2109d9bd
+SHA1: 86b979e9d2537e790ea7b047690c33e530d4eaae
+SHA256: 7f5172b18b1dda641bad40c8fc9baa52d1f66cba848d193e55541dee42512056
+Section: Tweaks (Piracy)
+Description: iOSGods VIP cheats for free
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Ishtar.json&name=Ishtar&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Ishtar.png
+Name: Ishtar
+Sileodepiction: https://paisseon.github.io/depictions/Ishtar.json
+
 Package: lilliana.peepreborn
 Version: 0.0.2
 Architecture: iphoneos-arm
@@ -904,4 +949,42 @@ Section: iOS 15 Patches
 Description: Make Tako work on iOS 15 and 16
 Author: Lilliana
 Name: Tako Fix
+
+Package: lilliana.ulyssescrack
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 140
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: debs/lilliana.ulyssescrack_0.0.1_iphoneos-arm.deb
+Size: 26392
+MD5sum: 9439c9a82cf37843c01dbfb2c3ccf6c3
+SHA1: 418690cf260d54e9e19736815919af4b2fe6413f
+SHA256: a16415ee1f91ba7ecfc561904c505a28844bdf10ef321b1b35e8d86729028ab1
+Section: Cracks
+Description: Ulysses annual subscription for free (works on TF!)
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/UlyssesCrack.json&name=UlyssesCrack&dev=Paisseon
+Icon: https://paisseon.github.io/icons/UlyssesCrack.png
+Name: Ulysses Crack
+Sileodepiction: https://paisseon.github.io/depictions/UlyssesCrack.json
+
+Package: lilliana.ulyssescrack
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 12.2)
+Filename: debs/lilliana.ulyssescrack_0.0.1_iphoneos-arm64.deb
+Size: 22562
+MD5sum: 3ca187b72b1d528a773a5cdb5d067ccd
+SHA1: 2351b08681a63ca9c012b29adb5bb350430a2f57
+SHA256: ecf9ec0461a8b52250ae70adde69497d9299d4b7bda79ef4495466a8d4b034a0
+Section: Cracks
+Description: Ulysses annual subscription for free (works on TF!)
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/UlyssesCrack.json&name=UlyssesCrack&dev=Paisseon
+Icon: https://paisseon.github.io/icons/UlyssesCrack.png
+Name: Ulysses Crack
+Sileodepiction: https://paisseon.github.io/depictions/UlyssesCrack.json
 
