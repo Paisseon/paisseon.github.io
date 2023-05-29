@@ -581,6 +581,25 @@ Icon: https://paisseon.github.io/icons/Xinamine.png
 Name: Xinamine
 Sileodepiction: https://paisseon.github.io/depictions/Xinamine.json
 
+Package: emt.paisseon.xinamine
+Version: 0.0.4
+Architecture: iphoneos-arm64
+Maintainer: Sudo + Paisseon
+Installed-Size: 564
+Depends: ellekit, oldabi | cy+cpu.arm64, firmware (>= 15.0)
+Filename: debs/emt.paisseon.xinamine_0.0.4_iphoneos-arm64.deb
+Size: 69926
+MD5sum: e5df49e89090bd118e4ffb0dcc373a12
+SHA1: 256f59fdbf89df66534f4c28caf0ffb2aed5d7e9
+SHA256: 64de2dc53da9f4c9220a3b35aec94d02ad21a3c52a8563a14a41f46dabe0ee5d
+Section: System
+Description: Add Xina tweak compatibility to Dopamine
+Author: Sudo + Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Xinamine.json&name=Xinamine&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Xinamine.png
+Name: Xinamine
+Sileodepiction: https://paisseon.github.io/depictions/Xinamine.json
+
 Package: lilliana.apphider
 Version: 0.0.1
 Architecture: iphoneos-arm
