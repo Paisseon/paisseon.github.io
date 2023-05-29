@@ -17,7 +17,7 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Like CyDown, but for everything except Cydia. Erika can download paid tweaks for free in Installer 5, Saily, Sileo, and Zebra."
+                    "markdown": "The unofficial successor to CyDown, Erika lets you download paid tweaks for free in Sileo, Saily, and Zebra!
                 },
                 
                 {
@@ -29,7 +29,7 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Identical tweak database to CyDown \n- Pretty UI with progress bar buttons \n- Supports all modern package managers \n- Open source"
+                    "markdown": "- Identical tweak database to CyDown \n- Includes a deb saver \n- Blocks the 'pirate repo bad' alert in Sileo \n- Pretty UI \n- Supports all modern package managers \n- Open source"
                 },
                 
                 {
@@ -41,19 +41,19 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "1. In *Saily*, tap the Buy button then Erika. In *everything else*, tap the tweak's icon at the top of the depiction. \n2. Once the tweak has downloaded, tap on Get Zappy. \n3. If you don't have Filza with URL scheme, the deb files are found in /var/mobile/Media/Erika."
+                    "markdown": "1. Tap the icon at the top of the tweak you want to download \n2. Once the tweak has downloaded, tap on Get Zappy or go to /var/mobile/Media/Erika \n3. Install the deb"
                 },
                 
                 {
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,
                     "useBottomMargin": false,
-                    "title": "Known Issues"
+                    "title": "Caveats"
                 },
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Does not work in Xina! I don't have Xina so if you can figure out why it's not working, hmu. \n- 'Tweak not found on the server' is not a bug, it just means CyDown server doesn't yet have the tweak."
+                    "markdown": "- If a rootless deb doesn't exist on the server, it will download a rootful version as a fallback \n- 'Tweak not found on the server' is not a bug, it just means CyDown server doesn't yet have the tweak."
                 },
                 
                 {
@@ -74,7 +74,7 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Version",
-                    "text": "1.11.0"
+                    "text": "1.13.0"
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -91,7 +91,7 @@
                         {
                             "class": "DepictionTableButtonView",
                             "title": "Source Code",
-                            "action": "https://github.com/Paisseon/Satella",
+                            "action": "https://github.com/Paisseon/Erika",
                             "openExternal": true
                         },
                         {
@@ -114,6 +114,36 @@
             "class": "DepictionStackView",
             "tintColor": "#CBA0DD",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.13.0"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Added deb saver \n- Added piracy alert blocker for Sileo \n- Improved rootless support \n- Added contribution \n- Removed Installer 5 support because nobody uses it lol"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.12.1"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Fix a bug in Saily (literally a commented-out line smh)"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.12.0"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Rootless support \n- About 80% rewritten"
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,

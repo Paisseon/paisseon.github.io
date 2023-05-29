@@ -17,7 +17,7 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Adds symlinks which fix Xina tweaks (i.e., tweaks repackaged on Xina) for Dopamine and rootless palera1n. This fixes some nonderootifiable tweaks"
+                    "markdown": "Lets you change the accent colour across the system and in apps. A more efficient version of Accent Custom, as it reads the preferences only once instead of many times"
                 },
                 
                 {
@@ -29,7 +29,19 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Runs automatically when you respring \n- Very lightweight \n- Open source"
+                    "markdown": "- 100% recyclable materials"
+                },
+                
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "Preferences"
+                },
+                
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- **Enable** Self-explanatory \n- **Custom Colour** Also self-explanatory"
                 },
                 
                 {
@@ -41,7 +53,7 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Currently doesn't work if Crane is installed \n- Apparently Cephei breaks a lot of stuff if you aren't careful, don't use it!"
+                    "markdown": "- May cause spontaneous combustion"
                 },
                 
                 {
@@ -56,8 +68,8 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "title": "Developers",
-                    "text": "Sudo + Paisseon"
+                    "title": "Developer",
+                    "text": "Paisseon"
                 },
                 {
                     "class": "DepictionTableTextView",
@@ -67,7 +79,7 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Compatibility",
-                    "text": "iOS 15.0 - 15.7.5"
+                    "text": "iOS 12.2 - 16.4"
                 },
                 {
                     "class": "DepictionSpacerView",
@@ -79,7 +91,7 @@
                         {
                             "class": "DepictionTableButtonView",
                             "title": "Source Code",
-                            "action": "https://github.com/Paisseon/Xinamine",
+                            "action": "https://github.com/Paisseon/Accent",
                             "openExternal": true
                         },
                         {
