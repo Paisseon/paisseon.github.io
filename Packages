@@ -657,6 +657,44 @@ Icon: https://paisseon.github.io/icons/AppHider.png
 Name: App Hider
 Sileodepiction: https://paisseon.github.io/depictions/AppHider.json
 
+Package: lilliana.apphider
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 596
+Depends: mobilesubstrate, firmware (>= 12.2), com.opa334.altlist
+Filename: debs/lilliana.apphider_0.0.2_iphoneos-arm64.deb
+Size: 76876
+MD5sum: 87bb11c5013ba6353ed0c41dea3e2c40
+SHA1: b211ee1b47812d3f6257c00bd946af83652ce299
+SHA256: 2ea0cec64aa9864a6b6440a8dbfda58ef1487bed34c26d61499a4146ca72783e
+Section: Tweaks
+Description: Hide apps from your homescreen, library, spotlight
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/AppHider.json&name=AppHider&dev=Paisseon
+Icon: https://paisseon.github.io/icons/AppHider.png
+Name: App Hider
+Sileodepiction: https://paisseon.github.io/depictions/AppHider.json
+
+Package: lilliana.apphider
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 536
+Depends: mobilesubstrate, firmware (>= 12.2), com.opa334.altlist
+Filename: debs/lilliana.apphider_0.0.2_iphoneos-arm.deb
+Size: 86284
+MD5sum: 07f4607f5d3900e8130a274f6891328d
+SHA1: d277a4f5d8ad0a489d59e541ca63785439c2e078
+SHA256: fc6a47b85fa70343f502c8b74a79dbaf6925a22450cce7bf3e91254584320d1e
+Section: Tweaks
+Description: Hide apps from your homescreen, library, spotlight
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/AppHider.json&name=AppHider&dev=Paisseon
+Icon: https://paisseon.github.io/icons/AppHider.png
+Name: App Hider
+Sileodepiction: https://paisseon.github.io/depictions/AppHider.json
+
 Package: lilliana.async
 Version: 0.0.1
 Architecture: iphoneos-arm
