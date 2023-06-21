@@ -17,7 +17,7 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Adds symlinks which fix Xina tweaks (i.e., tweaks repackaged on Xina) for Dopamine and rootless palera1n. This fixes some nonderootifiable tweaks. **Recommended to use the all-in-one version on CyPwn repo!**"
+                    "markdown": "Exactly what it says on the tin. Credit to el_zari for the actual crack, I just wrote it into a tweak"
                 },
                 
                 {
@@ -29,7 +29,7 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Runs automatically when you respring \n- Very lightweight \n- Open source"
+                    "markdown": "- 100% recyclable materials"
                 },
                 
                 {
@@ -41,7 +41,7 @@
                 
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Currently doesn't work if Crane is installed \n- Apparently Cephei breaks a lot of stuff if you aren't careful, don't use it!"
+                    "markdown": "- Sing not working yet (eta son?)"
                 },
                 
                 {
@@ -56,18 +56,18 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "title": "Developers",
-                    "text": "Sudo + Paisseon"
+                    "title": "Developer",
+                    "text": "Paisseon"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "title": "Version",
-                    "text": "0.0.5"
+                    "text": "0.0.1"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "title": "Compatibility",
-                    "text": "iOS 15.0 - 16.5"
+                    "text": "iOS 12.2 - 16.4"
                 },
                 {
                     "class": "DepictionSpacerView",
@@ -76,12 +76,6 @@
                 {
                     "class": "DepictionStackView",
                     "views": [
-                        {
-                            "class": "DepictionTableButtonView",
-                            "title": "Source Code",
-                            "action": "https://github.com/Paisseon/Xinamine",
-                            "openExternal": true
-                        },
                         {
                             "class": "DepictionTableButtonView",
                             "title": "CyPwn Discord",
@@ -106,21 +100,11 @@
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,
                     "useBottomMargin": false,
-                    "title": "0.0.5"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "- Added more symlinks, added prefs bundle."
-                },
-                {
-                    "class": "DepictionSubheaderView",
-                    "useBoldText": true,
-                    "useBottomMargin": false,
                     "title": "0.0.1"
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "- Initial release"
+                    "markdown": "- Initial re-release"
                 }
             ]
         }

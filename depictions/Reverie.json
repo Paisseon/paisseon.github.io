@@ -79,7 +79,7 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Compatibility",
-                    "text": "iOS 12.2 - 16.4"
+                    "text": "iOS 12.2 - 16.5"
                 },
                 {
                     "class": "DepictionSpacerView",

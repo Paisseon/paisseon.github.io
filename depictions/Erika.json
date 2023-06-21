@@ -74,12 +74,12 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Version",
-                    "text": "1.13.0"
+                    "text": "1.13.1"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "title": "Compatibility",
-                    "text": "iOS 13.0 - 16.4"
+                    "text": "iOS 13.0 - 16.5"
                 },
                 {
                     "class": "DepictionSpacerView",
@@ -114,6 +114,16 @@
             "class": "DepictionStackView",
             "tintColor": "#CBA0DD",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "1.13.1"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Improved deb saver and contribution \n- Add support for SingleKeycap's fork of Sileo"
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,
