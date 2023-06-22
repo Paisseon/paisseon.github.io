@@ -356,6 +356,44 @@ Icon: https://paisseon.github.io/icons/Erika.png
 Name: Erika
 Sileodepiction: https://paisseon.github.io/depictions/Erika.json
 
+Package: emt.paisseon.erika
+Version: 1.13.3
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 408
+Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
+Filename: debs/emt.paisseon.erika_1.13.3_iphoneos-arm.deb
+Size: 103068
+MD5sum: 8c8425af57863f87a9e3c878e6b40ec3
+SHA1: 8fb27dd198d08951f9c11675263389fae9d7828e
+SHA256: 24d1a203897d240029c121204afffa1e78033f3737310b5999b0cf8f699af9c2
+Section: Tweaks (Piracy)
+Description: Piracy downloader for Sileo
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+
+Package: emt.paisseon.erika
+Version: 1.13.3
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 368
+Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
+Filename: debs/emt.paisseon.erika_1.13.3_iphoneos-arm64.deb
+Size: 92162
+MD5sum: bab331e4f39bc5a4f9e753d01b87a877
+SHA1: 3b544573d3c9d037f4b97685ab7f1293fd1a9d45
+SHA256: 66270edb31c79f000d5059266f0d5ca53dac2ef989f878b40707a5f3318e21c0
+Section: Tweaks (Piracy)
+Description: Piracy downloader for Sileo
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+
 Package: emt.paisseon.icleaner
 Version: 0.0.1
 Architecture: iphoneos-arm
