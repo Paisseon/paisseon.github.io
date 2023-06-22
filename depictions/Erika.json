@@ -118,6 +118,16 @@
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,
                     "useBottomMargin": false,
+                    "title": "1.13.2"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Fix a bug with contribution, maybe for real this time?"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
                     "title": "1.13.1"
                 },
                 {

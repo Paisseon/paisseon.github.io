@@ -74,12 +74,12 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Version",
-                    "text": "0.0.1"
+                    "text": "0.0.2"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "title": "Compatibility",
-                    "text": "iOS 12.2 - 16.4"
+                    "text": "iOS 12.2 - 16.5"
                 },
                 {
                     "class": "DepictionSpacerView",
@@ -114,6 +114,16 @@
             "class": "DepictionStackView",
             "tintColor": "#CBA0DD",
             "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "0.0.2"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Fix a crash on iOS 16 when choosing a colour"
+                },
                 {
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,

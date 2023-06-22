@@ -318,6 +318,44 @@ Icon: https://paisseon.github.io/icons/Erika.png
 Name: Erika
 Sileodepiction: https://paisseon.github.io/depictions/Erika.json
 
+Package: emt.paisseon.erika
+Version: 1.13.2
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 368
+Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
+Filename: debs/emt.paisseon.erika_1.13.2_iphoneos-arm64.deb
+Size: 91980
+MD5sum: c475f5210aec551ff4bb5859da8ed790
+SHA1: bb001a7be3ee14be09162b11deae383623de0f08
+SHA256: 53620a5a2409926c273bb70edee9cc330fb12a3646a7266d5eb38ab9edfedaee
+Section: Tweaks (Piracy)
+Description: Piracy downloader for Sileo
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+
+Package: emt.paisseon.erika
+Version: 1.13.2
+Architecture: iphoneos-arm
+Maintainer: Paisseon
+Installed-Size: 408
+Depends: mobilesubstrate, lilliana.async | firmware (>= 15.0)
+Filename: debs/emt.paisseon.erika_1.13.2_iphoneos-arm.deb
+Size: 102896
+MD5sum: 50f704a58293a2346d9a458d707586cd
+SHA1: f79e08d2f2c6591191e34df44ce303bac7e466b3
+SHA256: ee6c4f58d389c324497f5cb93882134e9bb2da9ed3809764be2282d6b4daa58e
+Section: Tweaks (Piracy)
+Description: Piracy downloader for Sileo
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Erika.json&name=Erika&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Erika.png
+Name: Erika
+Sileodepiction: https://paisseon.github.io/depictions/Erika.json
+
 Package: emt.paisseon.icleaner
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -801,6 +839,25 @@ Size: 77648
 MD5sum: e6cdd13c0576557fd52d1b39e213bed8
 SHA1: 362efc9523e8ff5b153487f81e105f269b2611dd
 SHA256: 5c42c1304bb317008934e90c69caf59a2ee8c8f6c9a0f355288bdb17a2250fb4
+Section: Tweaks
+Description: Change accent colours systemwide
+Author: Paisseon
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Accent.json&name=Accent&dev=Lilliana
+Icon: https://paisseon.github.io/icons/Accent.png
+Name: Accent Reborn
+Sileodepiction: https://paisseon.github.io/depictions/Accent.json
+
+Package: lilliana.accent
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 580
+Depends: mobilesubstrate, firmware (>= 12.2), ws.hbang.alderis (>= 1.2)
+Filename: debs/lilliana.accent_0.0.2_iphoneos-arm64.deb
+Size: 77752
+MD5sum: d161dc372e99ae6a18baded04fd9f701
+SHA1: 7f6f0f51f1db300afe9e43e19c9c9c42eb599642
+SHA256: 24bcbb0aa29274c99370c1fd3f6ba8972f222a587d0c196edca5ca52591ccb11
 Section: Tweaks
 Description: Change accent colours systemwide
 Author: Paisseon
