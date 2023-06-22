@@ -118,6 +118,16 @@
                     "class": "DepictionSubheaderView",
                     "useBoldText": true,
                     "useBottomMargin": false,
+                    "title": "1.13.3"
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "- Fix a crash in Zebra \n- Mitigate file misidentification risks in Saily"
+                },
+                {
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "useBottomMargin": false,
                     "title": "1.13.2"
                 },
                 {
